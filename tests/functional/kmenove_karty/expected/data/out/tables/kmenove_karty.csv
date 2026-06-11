@@ -1,0 +1,50 @@
+TabKmenZbozi_ID,TabKmenZbozi_CisloZbozi,TabKmenZbozi_Nazev1
+1,999041100,Pořízení dlouhodobého nehmotného majetku - plný nárok
+3,999042100,Pořízení dlouhodobého hmotného majetku - plný nárok
+6,999381100,Náklady příštích období
+7,999383100,Výdaje příštích období
+8,999384100,Výnosy příštích období
+9,999385100,Příjmy příštích období
+10,999389100,Dohadné účty pasivní
+11,999501000,Spotřeba materiálu - zakázky (rozpracovanost)
+12,999501100,Spotřeba materiálu - režie
+13,999501200,Spotřeba materiálu - PHM
+14,999501300,Spotřeba materiálu - nákup dlouhodobého majetku do limitu
+15,999502100,Spotřeba energie - elektřina
+16,999502200,Spotřeba energie - plyn
+17,999502300,Spotřeba energie - voda
+18,999511100,Opravy a udržování - auta
+19,999511200,Opravy a udržování - budovy
+20,999511300,Opravy a udržování - ostatní
+21,999512100,Cestovné - tuzemsko
+22,999512200,Cestovné - zahraničí
+23,999512999,Cestovné nad limit - nedaňové
+24,999513100,Náklady na reprezentaci
+25,999518000,Ostatní služby - zakázky (rozpracovanost)
+26,999518100,Ostatní služby - telekomunikační služby - pevné linky
+27,999518110,Ostatní služby - telekomunikační služby - mobily
+28,999518200,Ostatní služby - leasing
+29,999518300,Ostatní služby - nájemné
+30,999518400,Ostatní služby - dopravné
+31,999518500,Ostatní služby - poštovné
+32,999518600,Ostatní služby - provize
+33,999518700,Ostatní služby - propagace
+34,999518900,Ostatní služby - ostatní
+35,999518999,Ostatní služby - nedaňové
+36,999530100,Daně a poplatky
+37,999538100,Ostatní daně a poplatky
+38,999543100,Dary
+39,999544100,Smluvní pokuty a úroky z prodlení
+40,999545100,Ostatní pokuty a penále
+41,999548100,Pojistné
+42,999548200,Ostatní provozní náklady - ostatní
+43,999548999,Ostatní provozní náklady-nedaňové
+44,999549100,Manka a škody
+45,999568100,Ostatní finanční náklady
+46,999602100,Tržby z prodeje služeb 1
+47,999602200,Tržby z prodeje služeb 2
+48,999602300,Tržby z prodeje služeb 3
+52,999641100,Tržby z prodeje dlouhodobého nehmotného a hmotného majetku
+53,999644100,Smluvní pokuty a úroky z prodlení
+54,999648100,Jiné provozní výnosy
+55,999668100,Ostatní finanční výnosy

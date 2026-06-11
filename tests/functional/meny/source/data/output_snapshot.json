@@ -1,0 +1,23 @@
+{
+  "files": {},
+  "hash_algorithm": "sha256",
+  "tables": {
+    "meny.csv": {
+      "columns": [
+        "TabKodMen_ID",
+        "TabKodMen_Kod",
+        "TabKodMen_Nazev"
+      ],
+      "hash": "sha256:7e206af6c43bc5ba0abdfe390786dd1235bc46fa8da7bd5c1bcf70fd09ac7503",
+      "row_count": 3,
+      "size_bytes": 78
+    },
+    "meny.csv.manifest": {
+      "columns": null,
+      "hash": "sha256:7728fe95b46c13d8eeae42ae84274e1d9fe16808af794b823abf93f2f3b7ba40",
+      "row_count": null,
+      "size_bytes": 545
+    }
+  },
+  "version": "1.0"
+}

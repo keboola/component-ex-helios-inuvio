@@ -1,0 +1,22 @@
+{
+  "files": {},
+  "hash_algorithm": "sha256",
+  "tables": {
+    "organizace.csv": {
+      "columns": [
+        "TabCisOrg_ID",
+        "TabCisOrg_Nazev"
+      ],
+      "hash": "sha256:8539780d2873a3d956845ed16f6290417f7ca10d078b10f01af1300520362eef",
+      "row_count": 15,
+      "size_bytes": 796
+    },
+    "organizace.csv.manifest": {
+      "columns": null,
+      "hash": "sha256:0130a63ab221eb03e018b79fe0d09b9575f069ee330caeeb5bcce7f2ba330f7d",
+      "row_count": null,
+      "size_bytes": 417
+    }
+  },
+  "version": "1.0"
+}

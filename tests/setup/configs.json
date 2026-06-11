@@ -1,0 +1,234 @@
+[
+  {
+    "name": "organizace",
+    "description": "Full load \u2014 Organizace (Organizations), browse 1",
+    "config": {
+      "parameters": {
+        "base_url": "http://localhost:8080",
+        "username": "test-api",
+        "#password": "####",
+        "database": "HEE_Helios_001",
+        "windows_authentication": false,
+        "browse": "1",
+        "output_table_name": "organizace",
+        "columns": [
+          "TabCisOrg.ID",
+          "TabCisOrg.Nazev"
+        ],
+        "load_type": "full_load",
+        "primary_key": [],
+        "filter": ""
+      }
+    }
+  },
+  {
+    "name": "kmenove_karty",
+    "description": "Full load \u2014 Kmenov\u00e9 karty (Product Master), browse 2",
+    "config": {
+      "parameters": {
+        "base_url": "http://localhost:8080",
+        "username": "test-api",
+        "#password": "####",
+        "database": "HEE_Helios_001",
+        "windows_authentication": false,
+        "browse": "2",
+        "output_table_name": "kmenove_karty",
+        "columns": [
+          "TabKmenZbozi.ID",
+          "TabKmenZbozi.CisloZbozi",
+          "TabKmenZbozi.Nazev1"
+        ],
+        "load_type": "full_load",
+        "primary_key": [],
+        "filter": ""
+      }
+    }
+  },
+  {
+    "name": "psc",
+    "description": "Full load \u2014 PS\u010c (Postal Codes), browse 3",
+    "config": {
+      "parameters": {
+        "base_url": "http://localhost:8080",
+        "username": "test-api",
+        "#password": "####",
+        "database": "HEE_Helios_001",
+        "windows_authentication": false,
+        "browse": "3",
+        "output_table_name": "psc",
+        "columns": [
+          "TabPSC.ID",
+          "TabPSC.Cislo",
+          "TabPSC.Posta",
+          "TabPSC.Mesto"
+        ],
+        "load_type": "full_load",
+        "primary_key": [],
+        "filter": ""
+      }
+    }
+  },
+  {
+    "name": "meny",
+    "description": "Full load \u2014 M\u011bny (Currencies), browse 6",
+    "config": {
+      "parameters": {
+        "base_url": "http://localhost:8080",
+        "username": "test-api",
+        "#password": "####",
+        "database": "HEE_Helios_001",
+        "windows_authentication": false,
+        "browse": "6",
+        "output_table_name": "meny",
+        "columns": [
+          "TabKodMen.ID",
+          "TabKodMen.Kod",
+          "TabKodMen.Nazev"
+        ],
+        "load_type": "full_load",
+        "primary_key": [],
+        "filter": ""
+      }
+    }
+  },
+  {
+    "name": "merne_jednotky",
+    "description": "Full load \u2014 M\u011brn\u00e9 jednotky (Units of Measure), browse 11",
+    "config": {
+      "parameters": {
+        "base_url": "http://localhost:8080",
+        "username": "test-api",
+        "#password": "####",
+        "database": "HEE_Helios_001",
+        "windows_authentication": false,
+        "browse": "11",
+        "output_table_name": "merne_jednotky",
+        "columns": [
+          "TabMJ.ID",
+          "TabMJ.Kod",
+          "TabMJ.Nazev"
+        ],
+        "load_type": "full_load",
+        "primary_key": [],
+        "filter": ""
+      }
+    }
+  },
+  {
+    "name": "zurnal",
+    "description": "Full load \u2014 \u017durn\u00e1l (Audit Journal), browse 13",
+    "config": {
+      "parameters": {
+        "base_url": "http://localhost:8080",
+        "username": "test-api",
+        "#password": "####",
+        "database": "HEE_Helios_001",
+        "windows_authentication": false,
+        "browse": "13",
+        "output_table_name": "zurnal",
+        "columns": [
+          "TabZurnal.ID",
+          "TabZurnal.DatPorizeni",
+          "TabZurnal.Autor",
+          "TabZurnal.Udalost",
+          "TabZurnal.Akce"
+        ],
+        "load_type": "full_load",
+        "primary_key": [],
+        "filter": ""
+      }
+    }
+  },
+  {
+    "name": "uzivatele",
+    "description": "Full load \u2014 U\u017eivatel\u00e9 (Users), browse 14",
+    "config": {
+      "parameters": {
+        "base_url": "http://localhost:8080",
+        "username": "test-api",
+        "#password": "####",
+        "database": "HEE_Helios_001",
+        "windows_authentication": false,
+        "browse": "14",
+        "output_table_name": "uzivatele",
+        "columns": [
+          "TabUserCfg.ID",
+          "TabUserCfg.LoginName",
+          "TabUserCfg.FullName"
+        ],
+        "load_type": "full_load",
+        "primary_key": [],
+        "filter": ""
+      }
+    }
+  },
+  {
+    "name": "skupiny_karet",
+    "description": "Full load \u2014 Skupiny karet (Product Groups), browse 15",
+    "config": {
+      "parameters": {
+        "base_url": "http://localhost:8080",
+        "username": "test-api",
+        "#password": "####",
+        "database": "HEE_Helios_001",
+        "windows_authentication": false,
+        "browse": "15",
+        "output_table_name": "skupiny_karet",
+        "columns": [
+          "TabSkupinyZbozi.ID",
+          "TabSkupinyZbozi.SkupZbo",
+          "TabSkupinyZbozi.Nazev"
+        ],
+        "load_type": "full_load",
+        "primary_key": [],
+        "filter": ""
+      }
+    }
+  },
+  {
+    "name": "globalni_konfigurace",
+    "description": "Full load \u2014 Glob\u00e1ln\u00ed konfigurace (Global Config), browse 95",
+    "config": {
+      "parameters": {
+        "base_url": "http://localhost:8080",
+        "username": "test-api",
+        "#password": "####",
+        "database": "HEE_Helios_001",
+        "windows_authentication": false,
+        "browse": "95",
+        "output_table_name": "globalni_konfigurace",
+        "columns": [
+          "TabHGlob.ID",
+          "TabHGlob.PlatceDPH"
+        ],
+        "load_type": "full_load",
+        "primary_key": [],
+        "filter": ""
+      }
+    }
+  },
+  {
+    "name": "sazby_dph",
+    "description": "Full load \u2014 Sazby DPH (VAT Rates), browse 1540",
+    "config": {
+      "parameters": {
+        "base_url": "http://localhost:8080",
+        "username": "test-api",
+        "#password": "####",
+        "database": "HEE_Helios_001",
+        "windows_authentication": false,
+        "browse": "1540",
+        "output_table_name": "sazby_dph",
+        "columns": [
+          "TabSazbyDPH.ID",
+          "TabSazbyDPH.DruhSazbyDPH",
+          "TabSazbyDPH.SazbaDPH",
+          "TabSazbyDPH.Nazev"
+        ],
+        "load_type": "full_load",
+        "primary_key": [],
+        "filter": ""
+      }
+    }
+  }
+]

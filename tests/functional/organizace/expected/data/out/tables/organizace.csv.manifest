@@ -1,0 +1,26 @@
+{
+  "incremental": false,
+  "write_always": false,
+  "delimiter": ",",
+  "enclosure": "\"",
+  "manifest_type": "out",
+  "has_header": true,
+  "schema": [
+    {
+      "name": "TabCisOrg_ID",
+      "data_type": {
+        "base": {
+          "type": "INTEGER"
+        }
+      }
+    },
+    {
+      "name": "TabCisOrg_Nazev",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    }
+  ]
+}

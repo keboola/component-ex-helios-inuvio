@@ -1,0 +1,25 @@
+{
+  "files": {},
+  "hash_algorithm": "sha256",
+  "tables": {
+    "zurnal.csv": {
+      "columns": [
+        "TabZurnal_ID",
+        "TabZurnal_DatPorizeni",
+        "TabZurnal_Autor",
+        "TabZurnal_Udalost",
+        "TabZurnal_Akce"
+      ],
+      "hash": "sha256:7ca985ad5b1be4915c2024c27e84ab30c6e1fe140b3facd4a3330d0c1440517d",
+      "row_count": 3128,
+      "size_bytes": 273670
+    },
+    "zurnal.csv.manifest": {
+      "columns": null,
+      "hash": "sha256:52f5a775e1c3c4a21b16d839ab495d2e8481556b6960ae07755c31a603f8cdb1",
+      "row_count": null,
+      "size_bytes": 818
+    }
+  },
+  "version": "1.0"
+}

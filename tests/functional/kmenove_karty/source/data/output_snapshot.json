@@ -1,0 +1,23 @@
+{
+  "files": {},
+  "hash_algorithm": "sha256",
+  "tables": {
+    "kmenove_karty.csv": {
+      "columns": [
+        "TabKmenZbozi_ID",
+        "TabKmenZbozi_CisloZbozi",
+        "TabKmenZbozi_Nazev1"
+      ],
+      "hash": "sha256:f18cea86f55c0187f706c034ad91c05f87072f7f55bf6a357e29ef99dcdfa476",
+      "row_count": 50,
+      "size_bytes": 2313
+    },
+    "kmenove_karty.csv.manifest": {
+      "columns": null,
+      "hash": "sha256:60c7f5874d32624c7a3e77adb63df30e9f3c3632e26e4f48c0df5bcacee145df",
+      "row_count": null,
+      "size_bytes": 562
+    }
+  },
+  "version": "1.0"
+}

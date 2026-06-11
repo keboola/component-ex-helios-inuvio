@@ -1,0 +1,24 @@
+{
+  "files": {},
+  "hash_algorithm": "sha256",
+  "tables": {
+    "psc.csv": {
+      "columns": [
+        "TabPSC_ID",
+        "TabPSC_Cislo",
+        "TabPSC_Posta",
+        "TabPSC_Mesto"
+      ],
+      "hash": "sha256:5c760f74e914707a12fedc49d569519bc969350e29119c0c3f275b2c8f3d2915",
+      "row_count": 2673,
+      "size_bytes": 100006
+    },
+    "psc.csv.manifest": {
+      "columns": null,
+      "hash": "sha256:34411d4e53b911b12faff1652ce1f4bbb1cac520837960a066a884c61c041a8f",
+      "row_count": null,
+      "size_bytes": 689
+    }
+  },
+  "version": "1.0"
+}

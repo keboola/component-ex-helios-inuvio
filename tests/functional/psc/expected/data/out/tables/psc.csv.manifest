@@ -1,0 +1,43 @@
+{
+  "incremental": false,
+  "write_always": false,
+  "delimiter": ",",
+  "enclosure": "\"",
+  "manifest_type": "out",
+  "has_header": true,
+  "schema": [
+    {
+      "name": "TabPSC_ID",
+      "data_type": {
+        "base": {
+          "type": "INTEGER"
+        }
+      }
+    },
+    {
+      "name": "TabPSC_Cislo",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    },
+    {
+      "name": "TabPSC_Posta",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      },
+      "nullable": true
+    },
+    {
+      "name": "TabPSC_Mesto",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    }
+  ]
+}

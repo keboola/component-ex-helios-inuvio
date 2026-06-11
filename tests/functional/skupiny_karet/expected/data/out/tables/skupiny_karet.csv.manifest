@@ -1,0 +1,34 @@
+{
+  "incremental": false,
+  "write_always": false,
+  "delimiter": ",",
+  "enclosure": "\"",
+  "manifest_type": "out",
+  "has_header": true,
+  "schema": [
+    {
+      "name": "TabSkupinyZbozi_ID",
+      "data_type": {
+        "base": {
+          "type": "INTEGER"
+        }
+      }
+    },
+    {
+      "name": "TabSkupinyZbozi_SkupZbo",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    },
+    {
+      "name": "TabSkupinyZbozi_Nazev",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    }
+  ]
+}

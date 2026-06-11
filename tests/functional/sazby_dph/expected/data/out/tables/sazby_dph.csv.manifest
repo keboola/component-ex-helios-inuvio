@@ -1,0 +1,42 @@
+{
+  "incremental": false,
+  "write_always": false,
+  "delimiter": ",",
+  "enclosure": "\"",
+  "manifest_type": "out",
+  "has_header": true,
+  "schema": [
+    {
+      "name": "TabSazbyDPH_ID",
+      "data_type": {
+        "base": {
+          "type": "INTEGER"
+        }
+      }
+    },
+    {
+      "name": "TabSazbyDPH_DruhSazbyDPH",
+      "data_type": {
+        "base": {
+          "type": "INTEGER"
+        }
+      }
+    },
+    {
+      "name": "TabSazbyDPH_SazbaDPH",
+      "data_type": {
+        "base": {
+          "type": "FLOAT"
+        }
+      }
+    },
+    {
+      "name": "TabSazbyDPH_Nazev",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    }
+  ]
+}

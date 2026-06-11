@@ -1,0 +1,22 @@
+{
+  "files": {},
+  "hash_algorithm": "sha256",
+  "tables": {
+    "globalni_konfigurace.csv": {
+      "columns": [
+        "TabHGlob_ID",
+        "TabHGlob_PlatceDPH"
+      ],
+      "hash": "sha256:3bacff599831f5e4ab0d77afa7514ae128c4621b45f75c6c845276cef4a91541",
+      "row_count": 2,
+      "size_bytes": 37
+    },
+    "globalni_konfigurace.csv.manifest": {
+      "columns": null,
+      "hash": "sha256:9255c49583dd11770990b5ca28c770abb1f63948849f285bcc5fb96b62b9c525",
+      "row_count": null,
+      "size_bytes": 444
+    }
+  },
+  "version": "1.0"
+}

@@ -1,0 +1,23 @@
+{
+  "files": {},
+  "hash_algorithm": "sha256",
+  "tables": {
+    "merne_jednotky.csv": {
+      "columns": [
+        "TabMJ_ID",
+        "TabMJ_Kod",
+        "TabMJ_Nazev"
+      ],
+      "hash": "sha256:61e5b8c504ab27110e3032f0ebe38b5fc25b7a1ba3f7d222d568ab486aea120b",
+      "row_count": 2,
+      "size_bytes": 43
+    },
+    "merne_jednotky.csv.manifest": {
+      "columns": null,
+      "hash": "sha256:6e3bdfda0a7c89d647feadceb37e3fbf9774777daff65f0a9e49b4ff76c69bba",
+      "row_count": null,
+      "size_bytes": 533
+    }
+  },
+  "version": "1.0"
+}

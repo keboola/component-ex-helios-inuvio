@@ -1,0 +1,1 @@
+{"incremental": false, "write_always": false, "delimiter": ",", "enclosure": "\"", "manifest_type": "out", "has_header": false, "schema": [{"name": "TabCisOrg_ID", "data_type": {"base": {"type": "STRING"}}, "nullable": true}, {"name": "TabCisOrg_Nazev", "data_type": {"base": {"type": "STRING"}}, "nullable": true}]}

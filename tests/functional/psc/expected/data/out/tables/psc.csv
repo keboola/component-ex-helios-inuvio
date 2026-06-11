@@ -1,0 +1,2673 @@
+TabPSC_ID,TabPSC_Cislo,TabPSC_Posta,TabPSC_Mesto
+1,100 00,Praha 10,Praha
+2,101 00,Praha 101,Praha
+3,102 00,Praha 102,Praha
+4,103 00,Praha 113,Praha
+5,104 00,Praha 114,Praha
+6,106 00,Praha 106,Praha
+7,107 00,Praha 112,Praha
+8,108 00,Praha 108,Praha
+9,109 00,Praha 111,Praha
+10,110 00,Praha 1,Praha
+11,111 01,Dolní Měcholupy,Praha
+12,118 00,Praha 011,Praha
+13,119 00,Praha 012,Praha
+14,120 00,Praha 2,Praha
+15,128 00,Praha 28,Praha
+16,130 00,Praha 3,Praha
+17,140 00,Praha 4,Praha
+18,141 00,Praha 41,Praha
+19,142 00,Praha 411,Praha
+20,143 00,Praha 412,Praha
+21,147 00,Praha 47,Praha
+22,148 00,Praha 414,Praha
+23,149 00,Praha 415,Praha
+24,150 00,Praha 5,Praha
+25,152 00,Praha 52,Praha
+26,153 00,Praha 512,Praha
+27,154 00,Praha 514,Praha
+28,155 00,Praha 515,Praha
+29,155 21,Praha 517,Praha
+30,155 31,Praha 511,Praha
+31,156 00,Praha 516,Praha
+32,158 00,Praha 58,Praha
+33,159 00,Praha 59,Praha
+34,160 00,Praha 6,Praha
+35,161 00,Praha 614,Praha
+36,162 00,Praha 616,Praha
+37,163 00,Praha 618,Praha
+38,164 00,Praha 619,Praha
+39,165 00,Praha 620,Praha
+40,169 00,Praha 69,Praha
+41,170 00,Praha 7,Praha
+42,171 00,Praha 71,Praha
+43,180 00,Praha 8,Praha
+44,181 00,Praha 81,Praha
+45,182 00,Praha 82,Praha
+46,184 00,Praha 84,Praha
+47,186 00,Praha 86,Praha
+48,190 00,Praha 9,Praha
+49,190 11,Praha 911,Praha
+50,190 12,Praha 912,Praha
+51,190 14,Praha 914,Praha
+52,190 15,Praha 915,Praha
+53,190 16,Praha 916,Praha
+54,190 17,Praha 917,Praha
+55,193 00,Praha 913,Praha
+56,196 00,Praha 96,Praha
+57,197 00,Praha 97,Praha
+58,198 00,Praha 98,Praha
+59,199 00,Praha 99,Praha
+60,250 01,Brandýs nad Labem-Stará Boleslav 1,Brandýs nad Labem-Stará Boleslav
+61,250 63,Mratín,Čakovičky
+62,250 64,Měšice u Prahy,Hovorčovice
+63,250 65,Líbeznice,Bašť
+64,250 66,Zdiby,Zdiby
+65,250 67,Klecany,Klecany
+66,250 68,Řež,Husinec
+67,250 69,Vodochody,Vodochody
+68,250 70,Odolena Voda,Odolena Voda
+69,250 72,Kojetice u Prahy,Kojetice
+70,250 73,Jenštejn,Jenštejn
+71,250 74,Výdejní místo Radonice,Radonice
+72,250 75,Káraný,Káraný
+73,250 81,Nehvizdy,Nehvizdy
+74,250 82,Úvaly,Dobročovice
+75,250 83,Škvorec,Škvorec
+76,250 84,Sibřina,Křenice
+77,250 87,Mochov,Vyšehořovice
+78,250 88,Čelákovice,Čelákovice
+79,250 89,Lázně Toušeň,Lázně Toušeň
+80,250 90,Jirny,Jirny
+81,250 91,Zeleneč v Čechách,Jenštejn
+82,250 92,Šestajovice,Šestajovice
+83,251 01,Říčany u Prahy,Babice
+84,251 62,Mukařov,Louňovice
+85,251 63,Strančice,Strančice
+86,251 64,Mnichovice,Mnichovice
+87,251 65,Ondřejov,Kaliště
+88,251 66,Senohraby,Hrusice
+89,251 67,Pyšely,Řehenice
+90,251 68,Kamenice,Řehenice
+91,251 69,Velké Popovice,Velké Popovice
+92,252 02,Jíloviště,Jíloviště
+93,252 03,Řitka,Líšnice
+94,252 04,Čisovice,Čisovice
+95,252 05,Hvozdnice,Bratřínov
+96,252 06,Davle,Bojanovice
+97,252 07,Štěchovice,Štěchovice
+98,252 08,Slapy nad Vltavou,Buš
+99,252 09,Hradištko,Hradištko
+100,252 10,Mníšek pod Brdy,Čisovice
+101,252 16,Nučice,Nučice
+102,252 17,Tachlovice,Chýnice
+103,252 18,Úhonice,Ptice
+104,252 19,Rudná,Chrášťany
+105,252 25,Jinočany,Dobříč
+106,252 26,Třebotov,Černošice
+107,252 28,Černošice,Černošice
+108,252 29,Dobřichovice,Dobřichovice
+109,252 30,Řevnice,Lety
+110,252 31,Všenory,Všenory
+111,252 41,Dolní Břežany,Dolní Břežany
+112,252 42,Jesenice u Prahy,Jesenice
+113,252 43,Průhonice,Průhonice
+114,252 44,Psáry,Psáry
+115,252 45,Zvole u Prahy,Březová-Oleško
+116,252 46,Vrané nad Vltavou,Dolní Břežany
+117,252 50,Vestec,Vestec
+118,252 61,Jeneč,Dobrovíz
+119,252 62,Horoměřice,Statenice
+120,252 63,Roztoky u Prahy,Roztoky
+121,252 64,Velké Přílepy,Svrkyně
+122,252 65,Tursko,Holubice
+123,252 66,Libčice nad Vltavou,Libčice nad Vltavou
+124,252 67,Tuchoměřice,Tuchoměřice
+125,252 68,Středokluky,Číčovice
+126,252 81,Petrov,Petrov
+127,252 82,Kamenný Přívoz,Kamenný Přívoz
+128,253 01,Hostivice,Hostivice
+129,253 03,Chýně,Chýně
+130,254 01,Jílové u Prahy,Petrov
+131,256 01,Benešov u Prahy,Benešov
+132,257 01,Postupice,Postupice
+133,257 03,Jankov,Jankov
+134,257 05,Zvěstov,Zvěstov
+135,257 06,Louňovice pod Blaníkem,Zvěstov
+136,257 08,Načeradec,Pravonín
+137,257 09,Pravonín,Pravonín
+138,257 21,Poříčí nad Sázavou,Bukovany
+139,257 22,Čerčany,Vranov
+140,257 23,Přestavlky u Čerčan,Přestavlky u Čerčan
+141,257 24,Chocerady,Ostředek
+142,257 26,Divišov,Bílkovice
+143,257 28,Chotýšany,Chotýšany
+144,257 41,Týnec nad Sázavou,Lešany
+145,257 42,Krhanice,Týnec nad Sázavou
+146,257 44,Netvořice,Neveklov
+147,257 51,Bystřice u Benešova,Maršovice
+148,257 53,Vrchotovy Janovice,Olbramovice
+149,257 55,Maršovice,Vrchotovy Janovice
+150,257 56,Neveklov,Neveklov
+151,257 63,Trhový Štěpánov,Soutice
+152,257 64,Zdislavice,Zdislavice
+153,257 65,Čechtice,Loket
+154,257 66,Křivsoudov,Křivsoudov
+155,257 68,Dolní Kralovice,Loket
+156,257 71,Soutice,Soutice
+157,257 86,Miličín,Neustupov
+158,257 87,Střezimíř,Střezimíř
+159,257 88,Červený Újezd u Votic,Červený Újezd
+160,257 89,Heřmaničky,Heřmaničky
+161,257 91,Sedlec-Prčice 1,Sedlec-Prčice
+162,258 01,Vlašim,Vlašim
+163,259 01,Votice,Votice
+164,261 01,Příbram 1,Příbram
+165,262 02,Stará Huť u Dobříše,Dobříš
+166,262 03,Nový Knín,Borotice
+167,262 04,Nová Ves pod Pleší,Malá Hraštice
+168,262 05,Velká Lečice,Bojanovice
+169,262 06,Korkyně,Korkyně
+170,262 11,Rosovice,Rosovice
+171,262 12,Obořiště,Obořiště
+172,262 13,Nečín,Nečín
+173,262 14,Hřiměždice,Hřiměždice
+174,262 15,Borotice,Borotice
+175,262 21,Obecnice,Obecnice
+176,262 22,Hluboš,Hluboš
+177,262 23,Jince,Jince
+178,262 25,Pičín,Pičín
+179,262 31,Milín,Bohostice
+180,262 32,Pečice,Pečice
+181,262 41,Bohutín,Bohutín
+182,262 42,Rožmitál pod Třemšínem,Bezděkov pod Třemšínem
+183,262 43,Věšín,Věšín
+184,262 44,Hvožďany,Hvožďany
+185,262 51,Dublovice,Dublovice
+186,262 52,Vysoký Chlumec,Vysoký Chlumec
+187,262 55,Petrovice u Sedlčan,Petrovice
+188,262 56,Krásná Hora nad Vltavou,Svatý Jan
+189,262 61,Višňová u Příbramě,Višňová
+190,262 62,Dolní Hbity,Dolní Hbity
+191,262 63,Kamýk nad Vltavou,Bohostice
+192,262 72,Březnice,Březnice
+193,262 81,Tochovice,Tochovice
+194,262 84,Zalužany,Kozárovice
+195,262 85,Drahenice,Drahenice
+196,262 91,Kosova Hora,Kosova Hora
+197,262 93,Nalžovice,Nalžovice
+198,263 01,Dobříš,Nečín
+199,264 01,Sedlčany,Vysoký Chlumec
+200,266 01,Beroun 1,Beroun
+201,267 01,Králův Dvůr u Berouna,Suchomasty
+202,267 03,Hudlice,Hudlice
+203,267 05,Nižbor,Nižbor
+204,267 06,Hýskov,Hýskov
+205,267 07,Chyňava,Chyňava
+206,267 11,Vráž u Berouna,Vráž
+207,267 12,Loděnice u Berouna,Chrustenice
+208,267 16,Vysoký Újezd,Vysoký Újezd
+209,267 17,Mořina,Mořina
+210,267 18,Karlštejn,Bubovice
+211,267 21,Tmaň,Tmaň
+212,267 22,Suchomasty,Suchomasty
+213,267 23,Lochovice,Lhotka
+214,267 24,Hostomice pod Brdy,Běštín
+215,267 25,Osov,Osov
+216,267 26,Všeradice,Všeradice
+217,267 27,Liteň,Liteň
+218,267 28,Svinaře,Svinaře
+219,267 29,Zadní Třebaň,Zadní Třebaň
+220,267 41,Kublov,Kublov
+221,267 42,Broumy,Broumy
+222,267 43,Bzová u Hořovic,Bzová
+223,267 51,Zdice,Bavoryně
+224,267 53,Žebrák,Žebrák
+225,267 54,Praskolesy,Praskolesy
+226,267 61,Cerhovice,Cerhovice
+227,267 62,Komárov u Hořovic,Chaloupky
+228,267 63,Zaječov,Zaječov
+229,267 64,Olešná u Hořovic,Olešná
+230,268 01,Hořovice,Felbabka
+231,269 01,Rakovník 1,Pavlíkov
+232,270 01,Kněževes u Rakovníka,Chrášťany
+233,270 02,Kolešovice,Kolešovice
+234,270 04,Hořesedly,Hořovičky
+235,270 06,Kounov u Rakovníka,Janov
+236,270 07,Mutějovice,Mutějovice
+237,270 08,Hředle,Hředle
+238,270 09,Krupá,Krupá
+239,270 21,Pavlíkov,Pavlíkov
+240,270 23,Křivoklát,Branov
+241,270 24,Zbečno,Račice
+242,270 31,Senomaty,Senomaty
+243,270 32,Oráčov,Oráčov
+244,270 33,Jesenice u Rakovníka,Jesenice
+245,270 34,Čistá u Rakovníka,Šípy
+246,270 35,Petrovice u Rakovníka,Senomaty
+247,270 36,Lubná u Rakovníka,Lubná
+248,270 41,Slabce,Hracholusky
+249,270 42,Skryje u Rakovníka,Skryje
+250,270 51,Lužná v Čechách,Lužná
+251,270 52,Lišany,Lišany
+252,270 53,Krušovice,Krušovice
+253,270 54,Řevničov,Bdín
+254,270 55,Pochvalov,Pochvalov
+255,270 61,Lány,Lány
+256,270 62,Rynholec,Rynholec
+257,270 64,Mšec,Mšecké Žehrovice
+258,270 65,Srbeč,Srbeč
+259,271 01,Nové Strašecí,Lány
+260,272 01,Kladno 1,Kladno
+261,272 03,Kladno 3,Kladno
+262,272 04,Kladno 4,Kladno
+263,273 01,Kamenné Žehrovice,Kamenné Žehrovice
+264,273 02,Tuchlovice,Tuchlovice
+265,273 03,Stochov,Stochov
+266,273 04,Kačice,Stochov
+267,273 05,Smečno,Ledce
+268,273 06,Libušín,Hrdlív
+269,273 07,Vinařice u Kladna,Vinařice
+270,273 08,Pchery,Pchery
+271,273 09,Kladno 7,Kladno
+272,273 21,Hobšovice,Hobšovice
+273,273 22,Hospozín,Hospozín
+274,273 23,Černuc,Černuc
+275,273 24,Velvary,Černuc
+276,273 25,Zvoleněves,Neuměřice
+277,273 26,Olovnice,Kamenný Most
+278,273 27,Otvovice,Otvovice
+279,273 28,Zákolany,Blevice
+280,273 29,Koleč,Koleč
+281,273 41,Brandýsek,Brandýsek
+282,273 42,Stehelčeves,Dřetovice
+283,273 43,Buštěhrad,Zájezd
+284,273 45,Hřebeč,Hřebeč
+285,273 51,Unhošť,Braškov
+286,273 53,Hostouň u Prahy,Běloky
+287,273 54,Lidice,Lidice
+288,273 61,Velká Dobrá,Velká Dobrá
+289,273 62,Družec,Doksy
+290,273 63,Bratronice,Běleč
+291,273 64,Doksy u Kladna,Doksy
+292,273 71,Zlonice,Beřovice
+293,273 72,Šlapanice,Jarpice
+294,273 73,Vraný,Vraný
+295,273 74,Klobuky,Bílichov
+296,273 75,Třebíz,Kutrovice
+297,273 76,Pozdeň,Pozdeň
+298,273 77,Malíkovice,Malíkovice
+299,273 78,Řisuty,Jedomělice
+300,273 79,Tuřany u Slaného,Tuřany
+301,274 01,Slaný 1,Slaný
+302,276 01,Mělník 1,Hořín
+303,277 01,Dolní Beřkovice,Dolní Beřkovice
+304,277 03,Horní Počaply,Horní Počaply
+305,277 04,Cítov,Cítov
+306,277 05,Spomyšl,Jeviněves
+307,277 06,Lužec nad Vltavou,Lužec nad Vltavou
+308,277 07,Vraňany,Vraňany
+309,277 08,Ledčice,Ledčice
+310,277 11,Neratovice,Neratovice
+311,277 13,Kostelec nad Labem,Kostelec nad Labem
+312,277 14,Dřísy,Borek
+313,277 15,Tišice,Tišice
+314,277 16,Všetaty,Všetaty
+315,277 21,Liběchov,Medonosy
+316,277 23,Kokořín,Kokořín
+317,277 24,Vysoká u Mělníka,Vysoká
+318,277 31,Velký Borek,Lhotka
+319,277 32,Byšice,Byšice
+320,277 33,Řepín,Řepín
+321,277 34,Nebužely,Střemy
+322,277 35,Mšeno u Mělníka,Nosálov
+323,277 36,Lobeč,Lobeč
+324,277 37,Chorušice,Chorušice
+325,277 38,Mělnické Vtelno,Mělnické Vtelno
+326,277 41,Kly,Kly
+327,277 42,Obříství,Obříství
+328,277 43,Chlumín,Chlumín
+329,277 44,Vojkovice u Kralup nad Vltavou,Vojkovice
+330,277 45,Úžice u Kralup nad Vltavou,Vojkovice
+331,277 46,Veltrusy,Veltrusy
+332,277 51,Nelahozeves,Nelahozeves
+333,277 52,Nová Ves u Mělníka,Nová Ves
+334,278 01,Kralupy nad Vltavou 1,Chvatěruby
+335,280 02,Kolín 2,Bělušice
+336,281 01,Velim,Velim
+337,281 02,Cerhenice,Cerhenice
+338,281 03,Radim u Kolína,Chotutice
+339,281 04,Plaňany,Plaňany
+340,281 06,Vitice,Vitice
+341,281 07,Svojšice u Kolína,Svojšice
+342,281 21,Červené Pečky,Červené Pečky
+343,281 23,Starý Kolín,Starý Kolín
+344,281 25,Konárovice,Konárovice
+345,281 26,Týnec nad Labem,Žiželice
+346,281 27,Krakovany v Čechách,Krakovany
+347,281 28,Radovesnice,Radovesnice II
+348,281 29,Žiželice nad Cidlinou,Žiželice
+349,281 30,Ohaře,Ohaře
+350,281 41,Ratboř,Ratboř
+351,281 43,Bečváry,Bečváry
+352,281 44,Zásmuky,Kořenice
+353,281 46,Horní Kruty,Horní Kruty
+354,281 51,Velký Osek,Velký Osek
+355,281 61,Kouřim,Kouřim
+356,281 62,Oleška u Českého Brodu,Oleška
+357,281 63,Kostelec nad Černými Lesy,Barchovice
+358,281 66,Jevany,Jevany
+359,281 67,Stříbrná Skalice,Stříbrná Skalice
+360,281 71,Rostoklaty,Rostoklaty
+361,282 01,Český Brod,Břežany II
+362,284 01,Kutná Hora 1,Malešov
+363,284 03,Kutná Hora 3,Kutná Hora
+364,284 04,Kutná Hora 4,Kutná Hora
+365,285 01,Miskovice,Miskovice
+366,285 02,Suchdol u Kutné Hory,Suchdol
+367,285 04,Uhlířské Janovice,Nepoměřice
+368,285 06,Sázava,Sázava
+369,285 07,Rataje nad Sázavou,Rataje nad Sázavou
+370,285 09,Kácov,Kácov
+371,285 10,Čestín,Čestín
+372,285 11,Nepoměřice,Nepoměřice
+373,285 21,Zbraslavice,Zbraslavice
+374,285 22,Zruč nad Sázavou 1,Bohdaneč
+375,285 23,Vlastějovice,Vlastějovice
+376,285 25,Bohdaneč,Bohdaneč
+377,285 31,Nové Dvory u Kutné Hory,Nové Dvory
+378,285 32,Hlízov,Hlízov
+379,285 33,Církvice u Kutné Hory,Církvice
+380,285 41,Malešov,Malešov
+381,285 42,Červené Janovice,Červené Janovice
+382,285 43,Paběnice,Paběnice
+383,285 45,Kluky u Kutné Hory,Kluky
+384,285 46,Úmonín,Úmonín
+385,285 47,Křesetice,Křesetice
+386,285 61,Žleby,Žleby
+387,285 62,Hostovlice u Čáslavě,Hostovlice
+388,285 63,Tupadly,Potěhy
+389,285 64,Vlkaneč,Vlkaneč
+390,285 65,Zbýšov v Čechách,Zbýšov
+391,285 71,Vrdy,Vrdy
+392,285 72,Bílé Podolí,Bílé Podolí
+393,285 73,Horušice,Horušice
+394,285 74,Záboří nad Labem,Záboří nad Labem
+395,285 75,Žehušice,Žehušice
+396,285 76,Chotusice,Chotusice
+397,286 01,Čáslav,Adamov
+398,288 02,Nymburk 2,Budiměřice
+399,289 01,Dymokury,Dymokury
+400,289 02,Kněžice u Městce Králové,Chroustov
+401,289 03,Městec Králové,Chroustov
+402,289 04,Opočnice,Kolaje
+403,289 05,Žehuň,Choťovice
+404,289 06,Sány,Opolany
+405,289 07,Libice nad Cidlinou,Opolany
+406,289 08,Běrunice,Běrunice
+407,289 11,Pečky,Dobřichov
+408,289 12,Sadská,Hradištko
+409,289 13,Zvěřínek,Nymburk
+410,289 14,Poříčany,Chrást
+411,289 15,Kounice,Bříství
+412,289 16,Přerov nad Labem,Přerov nad Labem
+413,289 17,Semice,Semice
+414,289 21,Kostomlaty nad Labem,Kostomlátky
+415,289 22,Lysá nad Labem,Lysá nad Labem
+416,289 23,Milovice nad Labem 1,Milovice
+417,289 24,Milovice nad Labem 3,Milovice
+418,289 25,Straky,Čilec
+419,289 26,Stará Lysá,Stará Lysá
+420,289 31,Bobnice,Bobnice
+421,289 32,Oskořínek,Hrubý Jeseník
+422,289 33,Křinec,Křinec
+423,289 34,Rožďalovice,Chotěšice
+424,289 35,Košík,Košík
+425,289 36,Mcely,Mcely
+426,289 37,Loučeň,Loučeň
+427,289 41,Pňov,Pňov-Předhradí
+428,290 01,Poděbrady 1,Choťánky
+429,293 01,Mladá Boleslav 1,Mladá Boleslav
+430,293 06,Kosmonosy,Bradlec
+431,293 07,Josefův Důl u Mladé Boleslavě,Hrdlořezy
+432,294 01,Bakov nad Jizerou,Bakov nad Jizerou
+433,294 02,Kněžmost,Branžež
+434,294 03,Obruby,Obruby
+435,294 04,Dolní Bousov,Dolní Bousov
+436,294 05,Dlouhá Lhota u Mladé Boleslavě,Dlouhá Lhota
+437,294 06,Březno u Mladé Boleslavě,Březno
+438,294 11,Loukov u Mnichova Hradiště,Žďár
+439,294 12,Žďár u Mnichova Hradiště,Žďár
+440,294 13,Mohelnice nad Jizerou,Chocnějovice
+441,294 14,Jivina u Mnichova Hradiště,Jivina
+442,294 15,Klášter Hradiště nad Jizerou,Klášter Hradiště nad Jizerou
+443,294 21,Bělá pod Bezdězem,Bělá pod Bezdězem
+444,294 23,Čistá u Mladé Boleslavě,Čistá
+445,294 24,Březovice u Mladé Boleslavě,Březovice
+446,294 25,Katusice,Bělá pod Bezdězem
+447,294 26,Skalsko,Boreč
+448,294 27,Velké Všelisy,Velké Všelisy
+449,294 28,Chotětov,Chotětov
+450,294 29,Bezno,Bezno
+451,294 30,Dolní Cetno,Niměřice
+452,294 31,Krnsko,Jizerní Vtelno
+453,294 41,Dobrovice,Dobrovice
+454,294 42,Luštěnice,Smilovice
+455,294 43,Čachovice u Mladé Boleslavě,Vlkava
+456,294 45,Jabkenice,Charvatce
+457,294 46,Semčice,Ctiměřice
+458,294 47,Ledce u Mladé Boleslavi,Ledce
+459,294 48,Domousnice,Domousnice
+460,294 71,Benátky nad Jizerou 1,Benátky nad Jizerou
+461,294 73,Brodce nad Jizerou,Brodce
+462,294 74,Předměřice nad Jizerou,Hlavenec
+463,294 75,Sojovice,Sojovice
+464,294 76,Kostelní Hlavno,Kostelní Hlavno
+465,294 77,Mečeříž,Mečeříž
+466,294 78,Dolní Slivno,Dolní Slivno
+467,294 79,Kropáčova Vrutice,Horní Slivno
+468,295 01,Mnichovo Hradiště,Bílá Hlína
+469,301 00,Plzeň 1,Plzeň
+470,312 00,Plzeň 12,Plzeň
+471,316 00,Plzeň 16,Plzeň
+472,318 00,Plzeň 18,Plzeň
+473,321 00,Plzeň 21,Plzeň
+474,322 00,Plzeň 22,Plzeň
+475,323 00,Plzeň 23,Plzeň
+476,326 00,Plzeň 26,Plzeň
+477,330 01,Kyšice,Kyšice
+478,330 02,Dýšina,Dýšina
+479,330 03,Chrást u Plzně,Chrást
+480,330 05,Dobříč,Dobříč
+481,330 07,Druztová,Druztová
+482,330 08,Zruč-Senec,Zruč-Senec
+483,330 11,Třemošná,Česká Bříza
+484,330 12,Horní Bříza,Horní Bříza
+485,330 13,Trnová u Plzně,Krašovice
+486,330 14,Ledce u Plzně,Ledce
+487,330 16,Všeruby u Plzně,Všeruby
+488,330 17,Chotíkov,Chotíkov
+489,330 21,Líně,Líně
+490,330 22,Zbůch,Zbůch
+491,330 23,Nýřany,Přehýšov
+492,330 24,Heřmanova Huť,Heřmanova Huť
+493,330 25,Blatnice u Plzně,Blatnice
+494,330 26,Tlučná,Tlučná
+495,330 27,Vejprnice,Vejprnice
+496,330 32,Kozolupy,Bdeněves
+497,330 33,Město Touškov,Čeminy
+498,330 35,Líšťany,Všeruby
+499,330 36,Pernarec,Pernarec
+500,330 38,Úněšov,Blažim
+501,330 40,Úterý,Úterý
+502,330 41,Bezvěrov,Bezvěrov
+503,331 01,Plasy,Plasy
+504,331 41,Kralovice,Bílov
+505,331 44,Kožlany,Kožlany
+506,331 51,Kaznějov,Dobříč
+507,331 52,Dolní Bělá,Bučí
+508,331 62,Manětín,Manětín
+509,331 65,Žihle,Tis u Blatna
+510,332 01,Tymákov,Lhůta
+511,332 02,Starý Plzenec,Starý Plzenec
+512,332 03,Šťáhlavy,Šťáhlavy
+513,332 04,Nezvěstice,Chlum
+514,332 05,Chválenice,Chválenice
+515,332 07,Výdejní místo Střížovice,Střížovice
+516,332 09,Štěnovice,Čižice
+517,332 11,Hradec u Stoda,Hradec
+518,332 14,Chotěšov,Chotěšov
+519,333 01,Stod,Honezovice
+520,334 01,Přeštice,Biřkov
+521,334 41,Dobřany,Dobřany
+522,334 42,Chlumčany u Přeštic,Chlumčany
+523,334 43,Dnešice,Dnešice
+524,334 44,Dolní Lukavice,Dolní Lukavice
+525,334 52,Merklín u Přeštic,Buková
+526,334 53,Roupov,Roupov
+527,334 54,Výdejní místo Lužany u Přeštic,Lužany
+528,334 55,Horšice,Horšice
+529,335 01,Nepomuk 1,Mileč
+530,335 03,Nepomuk 3,Nepomuk
+531,335 41,Vrčeň,Vrčeň
+532,335 43,Dožice,Mladý Smolivec
+533,335 44,Kasejovice,Hradiště
+534,335 46,Oselce,Oselce
+535,335 47,Nekvasovy,Nekvasovy
+536,335 51,Měcholupy u Blovic,Měcholupy
+537,335 54,Žinkovy,Žinkovy
+538,335 55,Neurazy,Neurazy
+539,335 61,Spálené Poříčí,Borovno
+540,335 63,Nové Mitrovice,Čížkov
+541,335 64,Čížkov u Blovic,Čížkov
+542,336 01,Blovice,Blovice
+543,337 01,Rokycany 1,Rokycany
+544,338 01,Holoubkov,Holoubkov
+545,338 05,Mýto v Čechách,Mýto
+546,338 06,Cheznovice,Cheznovice
+547,338 08,Zbiroh,Terešov
+548,338 21,Osek u Rokycan,Osek
+549,338 22,Volduchy,Svojkovice
+550,338 24,Břasy 1,Bezděkov
+551,338 28,Radnice u Rokycan,Chomle
+552,338 41,Klabava,Klabava
+553,338 42,Hrádek u Rokycan,Hrádek
+554,338 43,Mirošov 1,Kakejcov
+555,338 44,Dobřív,Dobřív
+556,338 45,Strašice,Strašice
+557,339 01,Klatovy 1,Dolany
+558,340 04,Železná Ruda,Železná Ruda
+559,340 12,Švihov,Kbel
+560,340 21,Janovice nad Úhlavou,Běhařov
+561,340 22,Nýrsko,Nýrsko
+562,340 34,Plánice,Plánice
+563,341 01,Horažďovice,Horažďovice
+564,341 42,Kolinec,Kolinec
+565,341 92,Kašperské Hory,Kašperské Hory
+566,342 01,Sušice 1,Sušice
+567,344 01,Domažlice 1,Babylon
+568,345 01,Mrákov,Mrákov
+569,345 02,Kout na Šumavě,Kout na Šumavě
+570,345 06,Kdyně,Kdyně
+571,345 07,Všeruby u Kdyně,Všeruby
+572,345 09,Pocinovice,Pocinovice
+573,345 21,Meclov,Meclov
+574,345 22,Poběžovice,Drahotín
+575,345 25,Hostouň u Horšovského Týna,Hostouň
+576,345 26,Bělá nad Radbuzou,Bělá nad Radbuzou
+577,345 32,Česká Kubice,Česká Kubice
+578,345 33,Trhanov,Chodov
+579,345 34,Klenčí pod Čerchovem,Klenčí pod Čerchovem
+580,345 35,Postřekov,Postřekov
+581,345 43,Koloveč,Chocomyšl
+582,345 45,Blížejov,Blížejov
+583,345 61,Staňkov,Čermná
+584,345 62,Holýšov,Bukovec
+585,346 01,Horšovský Týn,Horšovský Týn
+586,347 01,Tachov 1,Tachov
+587,348 01,Staré Sedliště,Částkov
+588,348 02,Bor u Tachova,Stráž
+589,348 06,Přimda,Třemešné
+590,348 13,Chodová Planá,Chodová Planá
+591,348 15,Planá u Mariánských Lázní,Bor
+592,349 01,Stříbro,Benešovice
+593,349 52,Konstantinovy Lázně,Cebiv
+594,349 53,Bezdružice,Bezdružice
+595,349 58,Černošín,Černošín
+596,349 61,Kladruby u Stříbra,Kladruby
+597,350 02,Cheb 2,Františkovy Lázně
+598,351 01,Františkovy Lázně,Františkovy Lázně
+599,351 24,Hranice u Aše,Hranice
+600,351 31,Libá,Libá
+601,351 32,Hazlov,Hazlov
+602,351 34,Skalná,Nový Kostel
+603,351 35,Plesná u Chebu,Plesná
+604,351 37,Luby u Chebu,Luby
+605,352 01,Aš 1,Aš
+606,353 01,Mariánské Lázně 1,Teplá
+607,354 91,Lázně Kynžvart,Lázně Kynžvart
+608,354 93,Dolní Žandov,Dolní Žandov
+609,356 01,Sokolov 1,Březová
+610,356 04,Dolní Rychnov,Dolní Rychnov
+611,357 01,Rotava 1,Rotava
+612,357 03,Svatava,Svatava
+613,357 07,Oloví,Oloví
+614,357 08,Krajková,Krajková
+615,357 09,Habartov,Krajková
+616,357 31,Horní Slavkov,Horní Slavkov
+617,357 33,Loket,Loket
+618,357 34,Nové Sedlo u Lokte,Nové Sedlo
+619,357 35,Chodov u Karlových Var 1,Chodov
+620,357 51,Kynšperk nad Ohří,Kynšperk nad Ohří
+621,357 55,Bukovany u Sokolova,Bukovany
+622,358 01,Kraslice,Bublava
+623,360 01,Karlovy Vary 1,Sadov
+624,360 04,Karlovy Vary 4,Karlovy Vary
+625,360 05,Karlovy Vary 5,Karlovy Vary
+626,360 06,Karlovy Vary 6,Karlovy Vary
+627,360 07,Karlovy Vary 7,Karlovy Vary
+628,360 10,Karlovy Vary 10,Karlovy Vary
+629,360 17,Karlovy Vary 17,Karlovy Vary
+630,360 18,Karlovy Vary 18,Karlovy Vary
+631,362 21,Nejdek 1,Nejdek
+632,362 22,Nejdek 2,Nejdek
+633,362 25,Nová Role,Božičany
+634,362 33,Hroznětín,Hroznětín
+635,362 34,Merklín u Karlových Var,Merklín
+636,362 35,Abertamy,Abertamy
+637,362 36,Pernink,Pernink
+638,362 51,Jáchymov,Ostrov
+639,362 62,Boží Dar,Boží Dar
+640,362 63,Dalovice,Dalovice
+641,362 72,Kyselka,Doupovské Hradiště
+642,362 73,Vojkovice nad Ohří,Vojkovice
+643,363 01,Ostrov nad Ohří,Stráž nad Ohří
+644,364 01,Toužim,Toužim
+645,364 52,Žlutice,Verušičky
+646,364 53,Chyše,Vrbice
+647,364 61,Teplá u Toužimě,Teplá
+648,364 64,Bečov nad Teplou,Bečov nad Teplou
+649,364 71,Bochov,Andělská Hora
+650,370 01,České Budějovice 1,Homole
+651,370 04,České Budějovice 4,České Budějovice
+652,370 05,České Budějovice 5,České Budějovice
+653,370 06,České Budějovice 6,Borovnice
+654,370 07,České Budějovice 7,Borovnice
+655,370 08,České Budějovice 8,České Budějovice
+656,370 10,České Budějovice 10,České Budějovice
+657,370 11,České Budějovice 11,České Budějovice
+658,373 01,Temelín,Temelín
+659,373 02,Neznašov,Všemyslice
+660,373 04,Chrášťany u Týna nad Vltavou,Chrášťany
+661,373 05,Temelín-elektrárna,Temelín
+662,373 11,Ledenice,Ledenice
+663,373 12,Borovany,Borovany
+664,373 14,Komařice,Komařice
+665,373 15,Nová Ves,Nová Ves
+666,373 16,Dobrá Voda u Českých Budějovic,Dobrá Voda u Českých Budějovic
+667,373 21,Slavče,Slavče
+668,373 22,Ločenice,Ločenice
+669,373 23,Svatý Jan nad Malší,Svatý Jan nad Malší
+670,373 24,Římov,Římov
+671,373 31,Olešnice u Českých Budějovic,Olešnice
+672,373 32,Jílovice u Trhových Svin,Jílovice
+673,373 33,Nové Hrady v jižních Čechách,Nové Hrady
+674,373 35,Horní Stropnice,Horní Stropnice
+675,373 36,Rychnov u Nových Hradů,Horní Stropnice
+676,373 41,Hluboká nad Vltavou,Hluboká nad Vltavou
+677,373 43,Výdejní místo Purkarec,Hluboká nad Vltavou
+678,373 44,Zliv,Zliv
+679,373 46,Pištín,Pištín
+680,373 47,Sedlec u Českých Budějovic,Sedlec
+681,373 48,Dívčice,Dívčice
+682,373 49,Mydlovary,Mydlovary
+683,373 50,Olešník,Olešník
+684,373 51,Dříteň,Dříteň
+685,373 61,Hrdějovice,Hosín
+686,373 62,Chotýčany u Českých Budějovic,Chotýčany
+687,373 63,Ševětín,Mazelov
+688,373 64,Dynín,Bošilec
+689,373 65,Dolní Bukovsko,Bošilec
+690,373 66,Žimutice,Žimutice
+691,373 67,Borek,Borek
+692,373 71,Rudolfov,Adamov
+693,373 72,Lišov u Českých Budějovic,Lišov
+694,373 73,Štěpánovice,Lišov
+695,373 81,Kamenný Újezd,Kamenný Újezd
+696,373 82,Boršov nad Vltavou,Boršov nad Vltavou
+697,373 84,Dubné,Branišov
+698,374 01,Trhové Sviny,Horní Stropnice
+699,375 01,Týn nad Vltavou 1,Bečice
+700,377 01,Jindřichův Hradec 1,Jindřichův Hradec
+701,378 01,Lásenice,Lásenice
+702,378 02,Stráž nad Nežárkou,Stráž nad Nežárkou
+703,378 03,Majdalena,Majdalena
+704,378 04,Chlum u Třeboně,Chlum u Třeboně
+705,378 06,Suchdol nad Lužnicí,Suchdol nad Lužnicí
+706,378 07,Rapšach,Rapšach
+707,378 08,Dvory nad Lužnicí,Dvory nad Lužnicí
+708,378 09,Nová Ves nad Lužnicí,Nová Ves nad Lužnicí
+709,378 10,České Velenice,České Velenice
+710,378 16,Lomnice nad Lužnicí,Lomnice nad Lužnicí
+711,378 17,Novosedly nad Nežárkou,Novosedly nad Nežárkou
+712,378 18,Výdejní místo Stříbřec,Pístina
+713,378 21,Kardašova Řečice,Drunče
+714,378 24,Výdejní místo Pluhův Žďár,Pluhův Žďár
+715,378 25,Deštná u Jindřichova Hradce,Deštná
+716,378 26,Lodhéřov,Lodhéřov
+717,378 31,Horní Pěna,Horní Pěna
+718,378 32,Číměř,Číměř
+719,378 33,Nová Bystřice,Nová Bystřice
+720,378 41,Jarošov nad Nežárkou,Jarošov nad Nežárkou
+721,378 42,Nová Včelnice,Bednárec
+722,378 43,Výdejní místo Horní Radouň,Horní Radouň
+723,378 46,Roseč,Roseč
+724,378 52,Blažejov,Blažejov
+725,378 53,Strmilov,Bořetín
+726,378 55,Výdejní místo Popelín,Popelín
+727,378 56,Studená,Jilem
+728,378 61,Člunek,Člunek
+729,378 62,Kunžak,Kunžak
+730,378 71,Staré Hobzí,Staré Hobzí
+731,378 72,Písečné,Písečné
+732,378 73,Dešná,Dešná
+733,378 81,Slavonice,Dešná
+734,378 82,Staré Město pod Landštejnem,Staré Město pod Landštejnem
+735,378 83,Český Rudolec,Český Rudolec
+736,378 91,Budíškovice,Budíškovice
+737,378 92,Budeč,Budeč
+738,379 01,Třeboň,Třeboň
+739,380 01,Dačice,Báňovice
+740,381 01,Český Krumlov 1,Bohdalovice
+741,382 01,Dolní Třebonín,Dolní Třebonín
+742,382 02,Zlatá Koruna,Zlatá Koruna
+743,382 03,Křemže,Křemže
+744,382 06,Brloh,Brloh
+745,382 08,Chvalšiny,Boletice
+746,382 11,Větřní,Větřní
+747,382 16,Světlík,Světlík
+748,382 18,Rožmberk nad Vltavou,Rožmberk nad Vltavou
+749,382 21,Kájov,Kájov
+750,382 22,Hořice na Šumavě,Hořice na Šumavě
+751,382 23,Černá v Pošumaví,Černá v Pošumaví
+752,382 26,Horní Planá,Černá v Pošumaví
+753,382 29,Polná na Šumavě,Polná na Šumavě
+754,382 32,Velešín,Velešín
+755,382 41,Kaplice 1,Malonty
+756,382 42,Kaplice 2,Střítež
+757,382 72,Dolní Dvořiště,Dolní Dvořiště
+758,382 73,Vyšší Brod,Vyšší Brod
+759,382 76,Loučovice,Loučovice
+760,382 78,Lipno nad Vltavou,Lipno nad Vltavou
+761,382 79,Frymburk,Frymburk
+762,382 81,Besednice,Besednice
+763,382 82,Benešov nad Černou,Benešov nad Černou
+764,382 83,Pohorská Ves,Pohorská Ves
+765,382 91,Malonty,Malonty
+766,382 92,Rožmitál na Šumavě,Rožmitál na Šumavě
+767,382 93,Horní Dvořiště,Horní Dvořiště
+768,383 01,Prachatice,Záblatí
+769,384 01,Nebahovy,Nebahovy
+770,384 02,Lhenice,Lhenice
+771,384 03,Ktiš,Ktiš
+772,384 04,Chroboly,Chroboly
+773,384 11,Netolice,Babice
+774,384 21,Husinec,Husinec
+775,384 22,Vlachovo Březí,Bušanovice
+776,384 25,Dub u Prachatic,Dub
+777,384 26,Strunkovice nad Blanicí,Strunkovice nad Blanicí
+778,384 27,Vitějovice,Vitějovice
+779,384 32,Lažiště,Lažiště
+780,384 33,Záblatí u Prachatic,Záblatí
+781,384 41,Zbytiny,Zbytiny
+782,384 42,Lenora,Lenora
+783,384 43,Strážný,Strážný
+784,384 44,Stožec,Stožec
+785,384 51,Volary,Nová Pec
+786,384 62,Nová Pec,Nová Pec
+787,384 71,Šumavské Hoštice,Buk
+788,384 72,Zdíkov,Zdíkov
+789,384 73,Stachy,Vacov
+790,384 81,Čkyně,Bohumilice
+791,384 86,Vacov,Vacov
+792,384 91,Horní Vltavice,Horní Vltavice
+793,384 92,Borová Lada,Borová Lada
+794,384 93,Kvilda,Kvilda
+795,385 01,Vimperk,Vimperk
+796,386 01,Strakonice 1,Přešťovice
+797,387 01,Volyně,Volyně
+798,387 06,Malenice nad Volyňkou,Malenice
+799,387 11,Katovice,Katovice
+800,387 15,Střelské Hoštice,Střelské Hoštice
+801,387 16,Volenice,Hoslovice
+802,387 19,Čestice,Čestice
+803,387 31,Radomyšl,Radomyšl
+804,387 32,Sedlice u Blatné,Sedlice
+805,387 33,Kadov u Blatné,Kadov
+806,387 34,Záboří u Blatné,Záboří
+807,387 35,Doubravice u Strakonic,Doubravice
+808,387 36,Mečichov,Mečichov
+809,387 37,Třebohostice,Třebohostice
+810,387 42,Lnáře,Hornosín
+811,387 43,Bělčice,Bělčice
+812,387 51,Štěkeň,Štěkeň
+813,387 52,Cehnice,Cehnice
+814,387 56,Čepřovice,Čepřovice
+815,387 71,Číčenice,Číčenice
+816,387 72,Libějovice,Libějovice
+817,387 73,Bavorov,Bavorov
+818,387 75,Skočice,Skočice
+819,388 01,Blatná,Bezdědovice
+820,389 01,Vodňany,Drahonice
+821,390 01,Tábor 1,Tábor
+822,390 02,Tábor 2,Tábor
+823,390 03,Tábor 3,Tábor
+824,390 05,Tábor 5,Tábor
+825,391 01,Sezimovo Ústí 1,Planá nad Lužnicí
+826,391 02,Sezimovo Ústí 2,Planá nad Lužnicí
+827,391 11,Planá nad Lužnicí,Planá nad Lužnicí
+828,391 16,Myslkovice,Myslkovice
+829,391 17,Košice u Soběslavě,Košice
+830,391 18,Choustník,Choustník
+831,391 20,Radenín,Radenín
+832,391 21,Turovec,Turovec
+833,391 26,Tučapy u Soběslavě,Tučapy
+834,391 27,Dírná,Dírná
+835,391 31,Dražice,Balkova Lhota
+836,391 32,Výdejní místo Božejovice,Jistebnice
+837,391 33,Jistebnice,Jistebnice
+838,391 35,Borotín,Borotín
+839,391 36,Sudoměřice u Tábora,Sudoměřice u Tábora
+840,391 37,Chotoviny,Chotoviny
+841,391 42,Ratibořské Hory,Ratibořské Hory
+842,391 43,Mladá Vožice,Běleč
+843,391 52,Smilovy Hory,Smilovy Hory
+844,391 53,Vodice u Tábora,Vodice
+845,391 55,Chýnov,Vodice
+846,391 56,Tábor 4,Tábor
+847,391 61,Opařany,Stádlec
+848,391 62,Stádlec,Stádlec
+849,391 65,Bechyně,Bechyně
+850,391 71,Březnice u Bechyně,Březnice
+851,391 72,Sudoměřice u Bechyně,Sudoměřice u Bechyně
+852,391 73,Hlavatce,Hlavatce
+853,391 74,Želeč u Tábora,Želeč
+854,391 75,Malšice,Bečice
+855,391 76,Slapy,Slapy
+856,391 81,Veselí nad Lužnicí 1,Borkovice
+857,392 01,Soběslav,Košice
+858,393 01,Pelhřimov,Bácovice
+859,394 01,Rynárec,Rynárec
+860,394 03,Horní Cerekev,Horní Cerekev
+861,394 04,Nový Rychnov,Nový Rychnov
+862,394 05,Vyskytná u Pelhřimova,Vyskytná
+863,394 09,Kojčice,Kojčice
+864,394 11,Cetoraz,Cetoraz
+865,394 12,Obrataň,Obrataň
+866,394 13,Kámen u Pacova,Kámen
+867,394 14,Leskovice,Leskovice
+868,394 15,Nová Cerekev,Nová Cerekev
+869,394 21,Hořepník,Hořepník
+870,394 22,Košetice,Buřenice
+871,394 24,Křešín,Křešín
+872,394 26,Lukavec,Lukavec
+873,394 27,Vyklantice,Vyklantice
+874,394 28,Velká Chyška,Velká Chyška
+875,394 43,Mladé Bříště,Mladé Bříště
+876,394 44,Želiv,Želiv
+877,394 45,Křelovice u Pelhřimova,Křelovice
+878,394 46,Červená Řečice,Červená Řečice
+879,394 51,Kaliště,Kaliště
+880,394 52,Kejžlice,Kejžlice
+881,394 56,Senožaty,Senožaty
+882,394 59,Koberovice,Koberovice
+883,394 61,Božejov,Božejov
+884,394 62,Libkova Voda,Libkova Voda
+885,394 63,Častrov,Častrov
+886,394 64,Počátky,Počátky
+887,394 68,Žirovnice,Žirovnice
+888,394 70,Kamenice nad Lipou,Kamenice nad Lipou
+889,394 91,Bohdalín,Bohdalín
+890,394 92,Mnich,Mnich
+891,394 93,Chválkov u Kamenice nad Lipou,Mnich
+892,394 94,Černovice u Tábora,Černovice
+893,394 95,Křeč,Křeč
+894,394 96,Těmice u Kamenice nad Lipou,Těmice
+895,395 01,Pacov,Arneštovice
+896,396 01,Humpolec,Želiv
+897,397 01,Písek 1,Čížová
+898,398 01,Mirotice,Mirotice
+899,398 04,Čimelice,Mirovice
+900,398 06,Mirovice,Horosedly
+901,398 07,Orlík nad Vltavou,Orlík nad Vltavou
+902,398 11,Protivín,Skály
+903,398 15,Tálín,Tálín
+904,398 16,Albrechtice nad Vltavou,Albrechtice nad Vltavou
+905,398 17,Chřešťovice,Albrechtice nad Vltavou
+906,398 18,Záhoří,Záhoří
+907,398 19,Kluky,Kluky
+908,398 21,Kestřany,Kestřany
+909,398 22,Ražice,Ražice
+910,398 31,Čížová,Čížová
+911,398 32,Vráž u Písku,Vráž
+912,398 33,Ostrovec,Ostrovec
+913,398 34,Kučeř,Kučeř
+914,398 35,Oslov,Oslov
+915,398 42,Veselíčko u Milevska,Veselíčko
+916,398 43,Bernartice u Milevska,Bernartice
+917,398 47,Slabčice,Slabčice
+918,398 48,Jetětice,Jetětice
+919,398 51,Sepekov,Božetice
+920,398 52,Nadějkov,Nadějkov
+921,398 53,Chyšky,Chyšky
+922,398 55,Kovářov,Kovářov
+923,398 58,Kostelec nad Vltavou,Kostelec nad Vltavou
+924,398 59,Hrejkovice,Hrejkovice
+925,399 01,Milevsko 1,Nadějkov
+926,400 01,Ústí nad Labem 1,Ústí nad Labem
+927,400 02,Ústí nad Labem 2,Velké Chvojno
+928,400 03,Ústí nad Labem 3,Ústí nad Labem
+929,400 04,Trmice,Trmice
+930,400 07,Ústí nad Labem 7,Ústí nad Labem
+931,400 10,Ústí nad Labem 10,Ústí nad Labem
+932,400 11,Ústí nad Labem 11,Ústí nad Labem
+933,403 01,Dolní Zálezly,Dolní Zálezly
+934,403 02,Výdejní místo Sebuzín,Ústí nad Labem
+935,403 13,Řehlovice,Řehlovice
+936,403 17,Chabařovice,Chabařovice
+937,403 21,Ústí nad Labem 17,Ústí nad Labem
+938,403 22,Ústí nad Labem 20,Ústí nad Labem
+939,403 23,Velké Březno,Velké Březno
+940,403 27,Malečov,Malečov
+941,403 31,Ústí nad Labem 16,Ústí nad Labem
+942,403 32,Povrly,Povrly
+943,403 34,Velké Chvojno,Velké Chvojno
+944,403 35,Libouchec,Libouchec
+945,403 36,Tisá,Tisá
+946,403 37,Petrovice u Ústí nad Labem,Petrovice
+947,403 38,Telnice,Petrovice
+948,403 39,Chlumec u Ústí nad Labem,Chlumec
+949,403 40,Ústí nad Labem 19,Ústí nad Labem
+950,405 02,Děčín 2,Děčín
+951,405 05,Děčín 5,Děčín
+952,407 01,Jílové u Děčína,Jílové
+953,407 02,Modrá u Děčína,Jílové
+954,407 03,Dobkovice u Děčína,Malšovice
+955,407 11,Děčín 9,Děčín
+956,407 13,Ludvíkovice,Kámen
+957,407 14,Arnoltice u Děčína,Arnoltice
+958,407 15,Srbská Kamenice,Srbská Kamenice
+959,407 16,Jetřichovice,Jetřichovice
+960,407 17,Hřensko,Hřensko
+961,407 21,Česká Kamenice,Česká Kamenice
+962,407 22,Benešov nad Ploučnicí,Benešov nad Ploučnicí
+963,407 23,Františkov nad Ploučnicí,Františkov nad Ploučnicí
+964,407 24,Valkeřice,Valkeřice
+965,407 25,Verneřice,Verneřice
+966,407 29,Velká Bukovina,Velká Bukovina
+967,407 41,Dobrná,Dobrná
+968,407 42,Markvartice u Děčína,Markvartice
+969,407 44,Chřibská,Chřibská
+970,407 45,Kytlice,Kytlice
+971,407 46,Krásná Lípa u Rumburka,Krásná Lípa
+972,407 47,Varnsdorf 1,Krásná Lípa
+973,407 51,Rybniště,Rybniště
+974,407 52,Varnsdorf 3,Varnsdorf
+975,407 53,Jiříkov,Jiříkov
+976,407 55,Dolní Podluží,Dolní Podluží
+977,407 56,Jiřetín pod Jedlovou,Jiřetín pod Jedlovou
+978,407 57,Horní Podluží,Horní Podluží
+979,407 60,Výdejní místo Brtníky,Staré Křečany
+980,407 61,Staré Křečany,Staré Křečany
+981,407 77,Šluknov,Šluknov
+982,407 78,Velký Šenov,Velký Šenov
+983,407 79,Mikulášovice,Mikulášovice
+984,407 80,Vilémov u Šluknova,Vilémov
+985,407 81,Lipová u Šluknova,Lipová
+986,407 82,Dolní Poustevna,Dolní Poustevna
+987,407 84,Lobendava,Lobendava
+988,408 01,Rumburk,Jiřetín pod Jedlovou
+989,410 02,Lovosice 2,Velemín
+990,411 01,Žalhostice,Píšťany
+991,411 03,Libochovany,Libochovany
+992,411 08,Štětí,Štětí
+993,411 11,Sulejovice,Sulejovice
+994,411 12,Čížkovice,Čížkovice
+995,411 13,Třebenice,Třebenice
+996,411 14,Výdejní místo Vlastislav,Vlastislav
+997,411 15,Třebívlice,Třebívlice
+998,411 16,Klapý,Klapý
+999,411 17,Libochovice,Libochovice
+1000,411 18,Budyně nad Ohří,Budyně nad Ohří
+1001,411 19,Mšené-lázně,Mšené-lázně
+1002,411 20,Ředhošť,Mšené-lázně
+1003,411 21,Vrbičany,Vrbičany
+1004,411 31,Velemín,Velemín
+1005,411 32,Milešov u Lovosic,Velemín
+1006,411 33,Prackovice nad Labem,Prackovice nad Labem
+1007,411 41,Žitenice,Žitenice
+1008,411 42,Ploskovice,Ploskovice
+1009,411 45,Úštěk,Úštěk
+1010,411 46,Liběšice u Litoměřic,Liběšice
+1011,411 47,Polepy,Polepy
+1012,411 48,Křešice,Křešice
+1013,411 55,Terezín,Terezín
+1014,411 56,Bohušovice nad Ohří,Bohušovice nad Ohří
+1015,411 62,Sukorady,Snědovice
+1016,411 64,Vrbice u Roudnice nad Labem,Vrbice
+1017,411 71,Chodouny,Chodouny
+1018,411 72,Hoštka u Roudnice nad Labem,Hoštka
+1019,411 73,Chcebuz,Štětí
+1020,411 74,Snědovice,Snědovice
+1021,411 81,Brozany nad Ohří,Brozany nad Ohří
+1022,411 82,Doksany,Doksany
+1023,411 83,Hrobce,Hrobce
+1024,411 84,Straškov-Vodochody,Straškov-Vodochody
+1025,411 85,Horní Beřkovice,Horní Beřkovice
+1026,411 86,Bechlín,Bechlín
+1027,411 87,Krabčice u Roudnice nad Labem,Krabčice
+1028,412 01,Litoměřice 1,Brňany
+1029,413 01,Roudnice nad Labem,Budyně nad Ohří
+1030,415 01,Teplice 1,Bořislav
+1031,415 03,Teplice 3,Teplice
+1032,415 10,Teplice 10,Teplice
+1033,417 01,Dubí u Teplic 1,Dubí
+1034,417 02,Dubí,Dubí
+1035,417 03,Pozorka,Dubí
+1036,417 04,Hrob,Hrob
+1037,417 05,Osek u Duchcova,Osek
+1038,417 12,Proboštov u Teplic,Proboštov
+1039,417 13,Modlany,Modlany
+1040,417 22,Háj u Duchcova,Háj u Duchcova
+1041,417 23,Košťany u Teplic,Košťany
+1042,417 24,Oldřichov,Jeníkov
+1043,417 25,Lahošť,Lahošť
+1044,417 31,Novosedlice,Novosedlice
+1045,417 41,Krupka 3,Krupka
+1046,417 42,Krupka 1,Krupka
+1047,417 52,Hostomice nad Bílinou,Hostomice
+1048,417 53,Světec,Světec
+1049,417 54,Kostomlaty pod Milešovkou,Kostomlaty pod Milešovkou
+1050,417 57,Hrobčice,Hrobčice
+1051,417 61,Bystřany,Bystřany
+1052,417 62,Rtyně nad Bílinou,Rtyně nad Bílinou
+1053,417 63,Žalany,Žalany
+1054,417 65,Ohníč,Ohníč
+1055,417 71,Zabrušany,Zabrušany
+1056,417 72,Ledvice,Ledvice
+1057,417 81,Moldava,Moldava
+1058,418 01,Bílina 1,Bílina
+1059,418 04,Bílina 4,Hrobčice
+1060,419 01,Duchcov,Duchcov
+1061,430 01,Chomutov 1,Blatno
+1062,430 03,Chomutov 3,Chomutov
+1063,430 04,Chomutov 4,Chomutov
+1064,431 01,Spořice,Spořice
+1065,431 02,Zelená,Málkov
+1066,431 11,Jirkov 1,Jirkov
+1067,431 14,Strupčice,Strupčice
+1068,431 15,Výdejní místo Vrskmaň,Vrskmaň
+1069,431 21,Boleboř,Boleboř
+1070,431 32,Výdejní místo Kalek,Kalek
+1071,431 41,Údlice,Údlice
+1072,431 43,Hrušovany u Chomutova,Hrušovany
+1073,431 44,Droužkovice,Droužkovice
+1074,431 45,Březno u Chomutova,Březno
+1075,431 51,Klášterec nad Ohří 1,Perštejn
+1076,431 53,Pětipsy,Pětipsy
+1077,431 54,Vilémov u Kadaně,Vilémov
+1078,431 55,Radonice u Kadaně,Radonice
+1079,431 56,Mašťov,Mašťov
+1080,431 57,Chbany,Chbany
+1081,431 58,Místo,Místo
+1082,431 59,Vysoká Pec,Vysoká Pec
+1083,431 63,Perštejn,Perštejn
+1084,431 82,Hora Svatého Šebestiána,Hora Svatého Šebestiána
+1085,431 83,Výdejní místo Výsluní,Výsluní
+1086,431 84,Výdejní místo Měděnec,Měděnec
+1087,431 86,Kovářská,Kovářská
+1088,431 91,Vejprty,Kryštofovy Hamry
+1089,432 01,Kadaň 1,Vilémov
+1090,434 01,Most 1,Bělušice
+1091,435 01,Havraň,Havraň
+1092,435 02,Most 9,Most
+1093,435 11,Lom u Mostu 1,Lom
+1094,435 13,Meziboří u Litvínova,Meziboří
+1095,435 21,Obrnice,Obrnice
+1096,435 22,Braňany,Braňany
+1097,435 24,Lužice u Mostu,Lužice
+1098,435 26,Bečov u Mostu,Bečov
+1099,435 32,Mariánské Radčice,Mariánské Radčice
+1100,435 33,Louka u Litvínova,Louka u Litvínova
+1101,435 42,Litvínov 8,Litvínov
+1102,435 43,Horní Jiřetín,Horní Jiřetín
+1103,435 45,Nová Ves v Horách,Nová Ves v Horách
+1104,435 46,Hora Svaté Kateřiny,Hora Svaté Kateřiny
+1105,435 47,Brandov,Brandov
+1106,436 01,Litvínov 1,Český Jiřetín
+1107,436 03,Litvínov 3,Litvínov
+1108,438 01,Žatec 1,Žatec
+1109,439 01,Černčice,Černčice
+1110,439 02,Cítoliby,Cítoliby
+1111,439 03,Chlumčany u Loun,Chlumčany
+1112,439 04,Hříškov,Hříškov
+1113,439 05,Panenský Týnec,Panenský Týnec
+1114,439 06,Vrbno nad Lesy,Vrbno nad Lesy
+1115,439 07,Peruc,Peruc
+1116,439 08,Pátek,Peruc
+1117,439 09,Slavětín nad Ohří,Slavětín
+1118,439 14,Smolnice,Smolnice
+1119,439 15,Vinařice u Loun,Vinařice
+1120,439 21,Koštice nad Ohří,Koštice
+1121,439 22,Chožov,Chožov
+1122,439 23,Lenešice,Lenešice
+1123,439 24,Raná u Loun,Raná
+1124,439 26,Libčeves,Libčeves
+1125,439 31,Měcholupy u Žatce,Měcholupy
+1126,439 42,Postoloprty,Postoloprty
+1127,439 49,Staňkovice u Žatce,Staňkovice
+1128,439 63,Liběšice u Žatce,Liběšice
+1129,439 65,Hřivice,Hřivice
+1130,439 67,Ročov,Ročov
+1131,439 68,Domoušice,Domoušice
+1132,439 69,Tuchořice,Tuchořice
+1133,439 71,Nepomyšl,Nepomyšl
+1134,439 72,Krásný Dvůr,Krásný Dvůr
+1135,439 75,Libočany,Libočany
+1136,439 81,Kryry,Kryry
+1137,439 82,Vroutek,Vroutek
+1138,439 83,Lubenec,Lubenec
+1139,439 84,Blatno u Podbořan,Blatno
+1140,439 85,Petrohrad,Petrohrad
+1141,439 86,Strojetice,Kryry
+1142,439 87,Očihov,Očihov
+1143,439 88,Blšany,Blšany
+1144,440 01,Louny 1,Hříškov
+1145,441 01,Podbořany,Petrohrad
+1146,460 01,Liberec 1,Liberec
+1147,460 05,Liberec 5,Liberec
+1148,460 06,Liberec 6,Liberec
+1149,460 07,Liberec 7,Liberec
+1150,460 08,Liberec 8,Liberec
+1151,460 10,Liberec 10,Liberec
+1152,460 14,Liberec 14,Liberec
+1153,460 15,Liberec 15,Liberec
+1154,463 03,Stráž nad Nisou,Stráž nad Nisou
+1155,463 11,Liberec 30,Liberec
+1156,463 12,Liberec 25,Dlouhý Most
+1157,463 31,Chrastava,Frýdlant
+1158,463 34,Hrádek nad Nisou,Chotyně
+1159,463 42,Hodkovice nad Mohelkou,Frýdštejn
+1160,463 43,Český Dub,Bílá
+1161,463 44,Sychrov,Pěnčín
+1162,463 45,Pěnčín u Liberce,Pěnčín
+1163,463 46,Příšovice,Příšovice
+1164,463 48,Všelibice,Všelibice
+1165,463 52,Osečná,Osečná
+1166,463 53,Křižany,Rynoltice
+1167,463 62,Hejnice,Bílý Potok
+1168,463 65,Nové Město pod Smrkem,Jindřichovice pod Smrkem
+1169,463 73,Habartice u Frýdlantu,Višňová
+1170,464 01,Frýdlant v Čechách,Bulovka
+1171,466 01,Jablonec nad Nisou 1,Jablonec nad Nisou
+1172,466 02,Jablonec nad Nisou 2,Jablonec nad Nisou
+1173,466 04,Jablonec nad Nisou 4,Jablonec nad Nisou
+1174,466 05,Jablonec nad Nisou 5,Jablonec nad Nisou
+1175,466 06,Jablonec nad Nisou 6,Jablonec nad Nisou
+1176,468 01,Jablonec nad Nisou 8,Jablonec nad Nisou
+1177,468 02,Rychnov u Jablonce nad Nisou,Dalešice
+1178,468 03,Rádlo,Rádlo
+1179,468 04,Jablonec nad Nisou 7,Jablonec nad Nisou
+1180,468 11,Janov nad Nisou,Janov nad Nisou
+1181,468 12,Bedřichov,Bedřichov
+1182,468 21,Bratříkov,Pěnčín
+1183,468 22,Železný Brod,Koberovy
+1184,468 24,Držkov,Držkov
+1185,468 25,Zásada,Zásada
+1186,468 26,Huť,Pěnčín
+1187,468 27,Nová Ves nad Nisou,Nová Ves nad Nisou
+1188,468 33,Jenišovice u Jablonce nad Nisou,Jenišovice
+1189,468 41,Tanvald,Desná
+1190,468 43,Albrechtice v Jizerských horách,Albrechtice v Jizerských horách
+1191,468 44,Josefův Důl,Josefův Důl
+1192,468 45,Velké Hamry,Velké Hamry
+1193,468 46,Plavy,Plavy
+1194,468 47,Zlatá Olešnice,Zlatá Olešnice
+1195,468 48,Výdejní místo Příchovice,Kořenov
+1196,468 49,Kořenov,Kořenov
+1197,468 50,Výdejní místo Polubný,Kořenov
+1198,468 51,Smržovka,Smržovka
+1199,468 61,Desná v Jizerských horách,Desná
+1200,468 71,Lučany nad Nisou,Lučany nad Nisou
+1201,470 01,Česká Lípa 1,Stružnice
+1202,470 02,Česká Lípa 2,Bohatice
+1203,470 06,Česká Lípa 6,Česká Lípa
+1204,471 01,Zahrádky u České Lípy,Zahrádky
+1205,471 02,Výdejní místo Stvolínky,Kravaře
+1206,471 03,Kravaře u České Lípy,Kravaře
+1207,471 04,Blíževedly,Blíževedly
+1208,471 05,Valteřice,Žandov
+1209,471 06,Horní Police,Horní Police
+1210,471 07,Žandov u České Lípy,Žandov
+1211,471 08,Jezvé,Stružnice
+1212,471 11,Horní Libchava u České Lípy,Horní Libchava
+1213,471 12,Volfartice,Volfartice
+1214,471 13,Nový Oldřichov,Nový Oldřichov
+1215,471 14,Kamenický Šenov,Kamenický Šenov
+1216,471 15,Prysk,Prysk
+1217,471 16,Polevsko,Polevsko
+1218,471 17,Skalice u České Lípy,Skalice u České Lípy
+1219,471 18,Pihel,Nový Bor
+1220,471 21,Dobranov,Česká Lípa
+1221,471 23,Zákupy,Zákupy
+1222,471 24,Mimoň,Ralsko
+1223,471 25,Jablonné v Podještědí,Jablonné v Podještědí
+1224,471 26,Dubnice pod Ralskem,Dubnice
+1225,471 27,Stráž pod Ralskem,Stráž pod Ralskem
+1226,471 28,Hamr u České Lípy,Hamr na Jezeře
+1227,471 29,Brniště,Brniště
+1228,471 41,Dubá,Dubá
+1229,471 51,Svor,Svor
+1230,471 52,Sloup v Čechách,Sloup v Čechách
+1231,471 53,Svojkov,Svojkov
+1232,471 54,Cvikov,Cvikov
+1233,471 55,Kunratice u Cvikova,Kunratice u Cvikova
+1234,471 56,Mařenice,Mařenice
+1235,471 57,Krompach,Mařenice
+1236,471 58,Lindava,Cvikov
+1237,471 61,Jestřebí,Jestřebí
+1238,471 62,Okna,Okna
+1239,471 63,Staré Splavy,Doksy
+1240,471 67,Provodín,Provodín
+1241,472 01,Doksy,Blatce
+1242,473 01,Nový Bor,Nový Bor
+1243,500 02,Hradec Králové 2,Hradec Králové
+1244,500 03,Hradec Králové 3,Hradec Králové 3
+1245,500 04,Hradec Králové 4,Hradec Králové
+1246,500 06,Hradec Králové 6,Hradec Králové
+1247,500 08,Hradec Králové 8,Hradec Králové
+1248,500 09,Hradec Králové 9,Hradec Králové
+1249,500 11,Hradec Králové 11,Hradec Králové
+1250,500 12,Hradec Králové 12,Hradec Králové
+1251,503 01,Hradec Králové 16,Hradec Králové
+1252,503 02,Předměřice nad Labem,Lochenice
+1253,503 03,Smiřice,Smiřice
+1254,503 04,Černožice nad Labem,Černožice
+1255,503 05,Výdejní místo Lužany,Lužany
+1256,503 06,Hořiněves,Hořiněves
+1257,503 11,Hradec Králové 15,Hradec Králové
+1258,503 12,Všestary,Všestary
+1259,503 13,Dohalice,Dohalice
+1260,503 14,Stračov,Stračov
+1261,503 15,Nechanice,Boharyně
+1262,503 16,Dolní Přím,Dolní Přím
+1263,503 21,Stěžery,Stěžery
+1264,503 22,Libčany,Libčany
+1265,503 23,Výdejní místo Boharyně,Boharyně
+1266,503 24,Kratonohy,Kratonohy
+1267,503 25,Dobřenice,Dobřenice
+1268,503 26,Osice,Osice
+1269,503 27,Lhota pod Libčany,Lhota pod Libčany
+1270,503 31,Vysoká nad Labem,Vysoká nad Labem
+1271,503 32,Hradec Králové 22,Hradec Králové
+1272,503 33,Praskačka,Praskačka
+1273,503 41,Hradec Králové 7,Hradec Králové
+1274,503 43,Černilov,Černilov
+1275,503 44,Libřice,Libřice
+1276,503 46,Třebechovice pod Orebem,Běleč nad Orlicí
+1277,503 51,Chlumec nad Cidlinou,Babice
+1278,503 52,Skřivany u Nového Bydžova,Skřivany
+1279,503 53,Smidary,Smidary
+1280,503 54,Ohnišťany,Ohnišťany
+1281,503 55,Petrovice u Nového Bydžova,Petrovice
+1282,503 56,Hlušice,Hlušice
+1283,503 57,Starý Bydžov,Starý Bydžov
+1284,503 61,Lovčice u Nového Bydžova,Lovčice
+1285,503 62,Lužec nad Cidlinou,Lužec nad Cidlinou
+1286,503 63,Nepolisy,Nepolisy
+1287,503 64,Měník,Měník
+1288,503 65,Kosičky,Kosičky
+1289,503 66,Káranice,Káranice
+1290,504 01,Nový Bydžov,Barchov
+1291,506 01,Jičín 1,Mladějov
+1292,507 02,Žeretice,Žeretice
+1293,507 03,Vysoké Veselí,Žeretice
+1294,507 04,Třtěnice,Třtěnice
+1295,507 05,Konecchlumí,Konecchlumí
+1296,507 06,Lužany,Lužany
+1297,507 07,Úlibice,Úlibice
+1298,507 11,Valdice,Valdice
+1299,507 12,Radim,Radim
+1300,507 13,Železnice,Bradlecká Lhota
+1301,507 15,Libuň,Libuň
+1302,507 21,Veliš,Veliš
+1303,507 22,Střevač,Střevač
+1304,507 23,Libáň,Bačalky
+1305,507 24,Dětenice,Dětenice
+1306,507 31,Jičíněves,Jičíněves
+1307,507 32,Kopidlno,Běchary
+1308,507 33,Vršce,Jičíněves
+1309,507 34,Žlunice,Žlunice
+1310,507 42,Markvartice u Sobotky,Markvartice
+1311,507 43,Sobotka,Sobotka
+1312,507 44,Libošovice,Libošovice
+1313,507 45,Mladějov v Čechách,Újezd pod Troskami
+1314,507 52,Ostroměř,Ostroměř
+1315,507 53,Chomutice u Hořic v Podkrkonoší,Chomutice
+1316,507 54,Podhorní Újezd a Vojice,Podhorní Újezd a Vojice
+1317,507 58,Mlázovice,Mlázovice
+1318,507 59,Šárovcova Lhota,Šárovcova Lhota
+1319,507 71,Miletín,Borek
+1320,507 73,Dobrá Voda u Hořic,Dobrá Voda u Hořic
+1321,507 77,Cerekvice nad Bystřicí,Cerekvice nad Bystřicí
+1322,507 81,Lázně Bělohrad,Lázně Bělohrad
+1323,507 82,Pecka,Pecka
+1324,507 91,Stará Paka,Stará Paka
+1325,507 92,Úbislavice,Úbislavice
+1326,508 01,Hořice v Podkrkonoší,Bašnice
+1327,509 01,Nová Paka,Stará Paka
+1328,511 01,Turnov 1,Mírová pod Kozákovem
+1329,512 01,Slaná u Semil,Slaná
+1330,512 02,Košťálov,Košťálov
+1331,512 03,Libštát,Libštát
+1332,512 04,Mříčná,Mříčná
+1333,512 06,Benešov u Semil,Benešov u Semil
+1334,512 11,Vysoké nad Jizerou,Vysoké nad Jizerou
+1335,512 12,Jesenný,Jesenný
+1336,512 13,Bozkov,Bozkov
+1337,512 31,Roztoky u Jilemnice,Roztoky u Jilemnice
+1338,512 32,Martinice v Krkonoších,Martinice v Krkonoších
+1339,512 33,Studenec u Horek,Studenec
+1340,512 34,Horka u Staré Paky,Horka u Staré Paky
+1341,512 35,Čistá u Horek,Čistá u Horek
+1342,512 36,Horní Branná,Horní Branná
+1343,512 37,Benecko,Benecko
+1344,512 38,Vítkovice v Krkonoších,Vítkovice
+1345,512 41,Víchová nad Jizerou,Víchová nad Jizerou
+1346,512 42,Poniklá,Poniklá
+1347,512 43,Jablonec nad Jizerou,Jablonec nad Jizerou
+1348,512 44,Rokytnice nad Jizerou 1,Rokytnice nad Jizerou
+1349,512 45,Rokytnice nad Jizerou 3,Rokytnice nad Jizerou
+1350,512 46,Harrachov v Krkonoších,Harrachov
+1351,512 47,Paseky nad Jizerou,Paseky nad Jizerou
+1352,512 51,Lomnice nad Popelkou,Stružinec
+1353,512 52,Veselá u Semil,Veselá
+1354,512 53,Tatobity,Tatobity
+1355,512 61,Přepeře,Přepeře
+1356,512 63,Rovensko pod Troskami,Veselá
+1357,512 64,Vyskeř,Vyskeř
+1358,512 65,Všeň,Všeň
+1359,512 71,Nová Ves nad Popelkou,Nová Ves nad Popelkou
+1360,513 01,Semily,Semily
+1361,514 01,Jilemnice,Bělá
+1362,516 01,Rychnov nad Kněžnou,Liberk
+1363,516 03,Lukavice,Lukavice
+1364,517 01,Solnice,Solnice
+1365,517 02,Kvasiny,Kvasiny
+1366,517 03,Skuhrov nad Bělou,Skuhrov nad Bělou
+1367,517 04,Černíkovice,Černíkovice
+1368,517 11,Javornice,Javornice
+1369,517 12,Liberk,Liberk
+1370,517 21,Týniště nad Orlicí,Borohrádek
+1371,517 22,Albrechtice nad Orlicí,Albrechtice nad Orlicí
+1372,517 23,Žďár nad Orlicí,Žďár nad Orlicí
+1373,517 24,Borohrádek,Borohrádek
+1374,517 25,Čermná nad Orlicí,Čermná nad Orlicí
+1375,517 31,Bolehošť,Bolehošť
+1376,517 32,Přepychy,Přepychy
+1377,517 33,Trnov u Dobrušky,Trnov
+1378,517 34,Voděrady u Rychnova nad Kněžnou,Voděrady
+1379,517 35,Lično,Lično
+1380,517 36,Olešnice u Rychnova nad Kněžnou,Olešnice
+1381,517 41,Kostelec nad Orlicí,Borovnice
+1382,517 42,Doudleby nad Orlicí,Doudleby nad Orlicí
+1383,517 43,Potštejn,Potštejn
+1384,517 45,Chleny,Chleny
+1385,517 50,Častolovice,Častolovice
+1386,517 54,Vamberk,Vamberk
+1387,517 55,Rybná nad Zdobnicí,Rybná nad Zdobnicí
+1388,517 56,Slatina nad Zdobnicí,Slatina nad Zdobnicí
+1389,517 57,Pěčín u Rychnova nad Kněžnou,Pěčín
+1390,517 61,Rokytnice v Orlických horách,Bartošovice v Orlických horách
+1391,517 64,Orlické Záhoří,Orlické Záhoří
+1392,517 71,České Meziříčí,České Meziříčí
+1393,517 72,Jílovice u Dobrušky,Jílovice
+1394,517 73,Opočno,Opočno
+1395,517 83,Olešnice v Orlických horách,Olešnice v Orlických horách
+1396,517 84,Ohnišov,Ohnišov
+1397,517 91,Deštné v Orlických horách,Deštné v Orlických horách
+1398,517 92,Kounov u Dobrušky,Kounov
+1399,517 93,Dobré,Dobré
+1400,518 01,Dobruška,Bačetín
+1401,518 03,Podbřezí,Podbřezí
+1402,530 02,Pardubice 2,Barchov
+1403,530 03,Pardubice 3,Pardubice
+1404,530 06,Pardubice 6,Pardubice
+1405,530 09,Pardubice 9,Pardubice
+1406,530 12,Pardubice 12,Pardubice
+1407,533 01,Pardubice 21,Pardubice
+1408,533 03,Dašice v Čechách,Dašice
+1409,533 04,Sezemice,Rokytno
+1410,533 05,Dříteč,Dříteč
+1411,533 11,Zdechovice,Zdechovice
+1412,533 12,Chvaletice,Chvaletice
+1413,533 13,Řečany nad Labem,Řečany nad Labem
+1414,533 14,Kladruby nad Labem,Kladruby nad Labem
+1415,533 15,Hlavečník,Hlavečník
+1416,533 16,Vápno,Kladruby nad Labem
+1417,533 21,Vysoké Chvojno,Vysoké Chvojno
+1418,533 22,Býšť,Býšť
+1419,533 32,Čepí,Čepí
+1420,533 33,Pardubice 23,Pardubice
+1421,533 41,Lázně Bohdaneč,Bukovka
+1422,533 42,Živanice,Živanice
+1423,533 43,Rohovládova Bělá,Rohovládova Bělá
+1424,533 44,Staré Ždánice,Staré Ždánice
+1425,533 45,Opatovice nad Labem,Čeperka
+1426,533 51,Pardubice 17,Pardubice
+1427,533 52,Staré Hradiště u Pardubic,Staré Hradiště
+1428,533 53,Pardubice 19,Pardubice
+1429,533 54,Rybitví,Rybitví
+1430,533 61,Choltice,Choltice
+1431,533 62,Svojšice u Přelouče,Svojšice
+1432,533 63,Turkovice u Přelouče,Turkovice
+1433,533 64,Lipoltice,Lipoltice
+1434,533 71,Dolní Roveň,Dolní Roveň
+1435,533 72,Moravany u Holic,Moravany
+1436,533 73,Uhersko,Uhersko
+1437,533 74,Horní Jelení,Horní Jelení
+1438,533 75,Dolní Ředice,Dolní Ředice
+1439,534 01,Holice v Čechách,Býšť
+1440,535 01,Přelouč,Brloh
+1441,537 01,Chrudim 1,Chrudim
+1442,537 03,Chrudim 3,Chrudim
+1443,537 05,Chrudim 5,Chrudim
+1444,538 01,Bylany,Bylany
+1445,538 02,Morašice u Chrudimě,Morašice
+1446,538 03,Heřmanův Městec,Podhořany u Ronova
+1447,538 04,Prachovice,Prachovice
+1448,538 05,Seč 3,Seč
+1449,538 07,Seč 1,Bojanov
+1450,538 21,Slatiňany,Žumberk
+1451,538 23,Licibořice,Licibořice
+1452,538 24,Svídnice,Svídnice
+1453,538 25,Nasavrky,Miřetice
+1454,538 26,Bojanov,Bojanov
+1455,538 31,Medlešice,Chrudim
+1456,538 32,Úhřetice,Úhřetice
+1457,538 33,Trojovice,Trojovice
+1458,538 34,Rosice u Chrasti,Rosice
+1459,538 35,Zaječice,Zaječice
+1460,538 36,Žumberk,Žumberk
+1461,538 41,Podhořany u Ronova nad Doubravou,Podhořany u Ronova
+1462,538 42,Ronov nad Doubravou,Ronov nad Doubravou
+1463,538 43,Třemošnice,Biskupice
+1464,538 45,Běstvina,Běstvina
+1465,538 51,Chrast u Chrudimě,Bítovany
+1466,538 54,Luže,Luže
+1467,538 61,Kočí,Kočí
+1468,538 62,Hrochův Týnec,Hrochův Týnec
+1469,538 63,Chroustovice,Rosice
+1470,538 64,Jenišovice u Chrudimě,Jenišovice
+1471,538 65,Řepníky,Řepníky
+1472,539 01,Hlinsko v Čechách 1,Hlinsko
+1473,539 41,Kameničky,Kameničky
+1474,539 42,Svratouch,Svratouch
+1475,539 43,Krouna,Krouna
+1476,539 44,Proseč u Skutče,Bor u Skutče
+1477,539 45,Nové Hrady u Skutče,Nové Hrady
+1478,539 52,Trhová Kamenice,Trhová Kamenice
+1479,539 53,Horní Bradlo,Horní Bradlo
+1480,539 55,Miřetice u Hlinska,Miřetice
+1481,539 56,Vrbatův Kostelec,Vrbatův Kostelec
+1482,539 57,Včelákov,Včelákov
+1483,539 61,Vortová,Vortová
+1484,539 62,Hlinsko v Čechách 3,Hlinsko
+1485,539 71,Holetín,Holetín
+1486,539 72,Raná u Hlinska,Raná
+1487,539 73,Skuteč,Skuteč
+1488,539 74,Předhradí,Předhradí
+1489,539 76,Prosetín u Hlinska,Prosetín
+1490,541 01,Trutnov 1,Trutnov
+1491,541 02,Trutnov 4,Trutnov
+1492,541 03,Trutnov 3,Trutnov
+1493,542 01,Žacléř,Žacléř
+1494,542 03,Královec,Královec
+1495,542 04,Bernartice u Trutnova,Bernartice
+1496,542 11,Chvaleč,Chvaleč
+1497,542 12,Radvanice v Čechách,Radvanice
+1498,542 13,Jívka,Jívka
+1499,542 21,Pec pod Sněžkou,Malá Úpa
+1500,542 23,Mladé Buky,Mladé Buky
+1501,542 24,Svoboda nad Úpou,Mladé Buky
+1502,542 25,Janské Lázně,Janské Lázně
+1503,542 26,Horní Maršov,Horní Maršov
+1504,542 27,Výdejní místo Malá Úpa,Malá Úpa
+1505,542 32,Úpice,Trutnov
+1506,542 33,Rtyně v Podkrkonoší,Havlovice
+1507,542 34,Malé Svatoňovice,Batňovice
+1508,542 35,Velké Svatoňovice,Velké Svatoňovice
+1509,542 36,Libňatov,Libňatov
+1510,542 37,Batňovice,Batňovice
+1511,542 42,Pilníkov,Pilníkov
+1512,543 01,Vrchlabí 1,Vrchlabí
+1513,543 02,Vrchlabí 4,Vrchlabí
+1514,543 03,Vrchlabí 3,Vrchlabí
+1515,543 41,Lánov,Dolní Lánov
+1516,543 42,Dolní Dvůr,Dolní Dvůr
+1517,543 44,Černý Důl,Černý Důl
+1518,543 51,Špindlerův Mlýn,Špindlerův Mlýn
+1519,543 52,Strážné,Strážné
+1520,543 61,Kunčice nad Labem,Kunčice nad Labem
+1521,543 62,Dolní Branná,Dolní Branná
+1522,543 71,Hostinné,Čermná
+1523,543 72,Rudník u Vrchlabí,Rudník
+1524,543 73,Prosečné,Prosečné
+1525,543 74,Dolní Kalná,Dolní Kalná
+1526,543 75,Dolní Olešnice,Dolní Olešnice
+1527,543 76,Chotěvice,Chotěvice
+1528,543 77,Čermná,Čermná
+1529,544 01,Dvůr Králové nad Labem,Bílá Třemešná
+1530,544 04,Žireč,Dvůr Králové nad Labem
+1531,544 42,Choustníkovo Hradiště,Choustníkovo Hradiště
+1532,544 43,Kuks,Kuks
+1533,544 51,Doubravice u Dvora Králové n/Labem,Doubravice
+1534,544 52,Výdejní místo Bílé Poličany,Bílé Poličany
+1535,544 54,Velký Vřešťov,Velký Vřešťov
+1536,544 55,Dubenec u Dvora Králové nad Labem,Dubenec
+1537,544 61,Nemojov,Nemojov
+1538,544 62,Vítězná,Vítězná
+1539,544 64,Kocbeře,Kocbeře
+1540,544 66,Hajnice,Hajnice
+1541,544 72,Bílá Třemešná,Bílá Třemešná
+1542,544 74,Horní Brusnice,Horní Brusnice
+1543,544 75,Mostek,Borovnička
+1544,544 77,Borovnice,Borovnice
+1545,547 01,Náchod 1,Náchod
+1546,549 01,Nové Město nad Metují 1,Slavoňov
+1547,549 06,Bohuslavice nad Metují,Bohuslavice
+1548,549 07,Nahořany,Nahořany
+1549,549 08,Provodov-Šonov,Provodov-Šonov
+1550,549 11,Dolní Radechová,Dolní Radechová
+1551,549 12,Výdejní místo Vysokov,Vysokov
+1552,549 21,Česká Čermná,Česká Čermná
+1553,549 22,Nový Hrádek,Nový Hrádek
+1554,549 23,Výdejní místo Mezilesí,Mezilesí
+1555,549 31,Hronov 1,Machov
+1556,549 32,Velké Poříčí,Velké Poříčí
+1557,549 34,Hronov 4,Hronov
+1558,549 36,Stárkov,Stárkov
+1559,549 37,Žďárky,Vysoká Srbská
+1560,549 41,Červený Kostelec,Červený Kostelec
+1561,549 46,Horní Radechová,Horní Radechová
+1562,549 47,Výdejní místo Slatina nad Úpou,Slatina nad Úpou
+1563,549 48,Studnice u Náchoda,Studnice
+1564,549 52,Horní Adršpach,Adršpach
+1565,549 54,Police nad Metují,Bezděkov nad Metují
+1566,549 55,Žďár nad Metují,Žďár nad Metují
+1567,549 56,Česká Metuje,Česká Metuje
+1568,549 57,Teplice nad Metují,Teplice nad Metují
+1569,549 62,Suchý Důl,Suchý Důl
+1570,549 63,Machov,Machov
+1571,549 64,Bezděkov nad Metují,Bezděkov nad Metují
+1572,549 71,Šonov u Broumova,Šonov
+1573,549 72,Otovice u Broumova,Otovice
+1574,549 73,Martínkovice,Martínkovice
+1575,549 74,Božanov,Božanov
+1576,549 81,Meziměstí u Broumova 1,Meziměstí
+1577,549 82,Vernéřovice,Vernéřovice
+1578,549 83,Meziměstí u Broumova 3,Meziměstí
+1579,549 84,Heřmánkovice,Heřmánkovice
+1580,550 01,Broumov 1,Broumov
+1581,551 01,Jaroměř 1,Jaroměř
+1582,551 02,Jaroměř 3,Jaroměř
+1583,552 03,Česká Skalice,Dolany
+1584,552 04,Chvalkovice v Čechách,Chvalkovice
+1585,552 05,Hořičky,Brzice
+1586,552 11,Velichovky,Velichovky
+1587,552 12,Heřmanice,Heřmanice
+1588,552 21,Rasošky,Rasošky
+1589,552 22,Jasenná,Jasenná
+1590,552 24,Velká Jesenice,Velká Jesenice
+1591,552 25,Rychnovek,Rychnovek
+1592,560 02,Česká Třebová 2,Česká Třebová
+1593,561 01,Hnátnice,Hnátnice
+1594,561 02,Dolní Dobrouč,Dolní Dobrouč
+1595,561 12,Brandýs nad Orlicí,Brandýs nad Orlicí
+1596,561 13,Sudslava,Sudslava
+1597,561 14,České Libchavy,České Libchavy
+1598,561 15,Sopotnice,Sopotnice
+1599,561 16,Libchavy,Libchavy
+1600,561 17,Dlouhá Třebová,Dlouhá Třebová
+1601,561 18,Němčice,Němčice
+1602,561 22,Ostrov,Ostrov
+1603,561 23,Damníkov,Damníkov
+1604,561 24,Třebovice,Třebovice
+1605,561 25,Rudoltice,Rudoltice
+1606,561 31,Tatenice,Tatenice
+1607,561 32,Cotkytle,Cotkytle
+1608,561 33,Horní Heřmanice v Čechách,Horní Heřmanice
+1609,561 34,Výprachtice,Výprachtice
+1610,561 41,Řetová,Řetová
+1611,561 51,Letohrad,Letohrad
+1612,561 52,Verměřovice,Verměřovice
+1613,561 53,Dolní Čermná,Dolní Čermná
+1614,561 54,Bystřec,Bystřec
+1615,561 55,Orličky,Orličky
+1616,561 56,Horní Čermná,Horní Čermná
+1617,561 61,Červená Voda 1,Červená Voda
+1618,561 62,Výdejní místo Červená Voda,Červená Voda
+1619,561 63,Nekoř,Nekoř
+1620,561 64,Jablonné nad Orlicí,Studené
+1621,561 65,Jamné nad Orlicí,Jamné nad Orlicí
+1622,561 66,Těchonín,Těchonín
+1623,561 67,Mladkov,Mladkov
+1624,561 68,Výdejní místo Lichkov,Lichkov
+1625,561 69,Králíky,Červená Voda
+1626,561 70,Písečná,Písečná
+1627,561 81,Kunvald,Kunvald
+1628,561 82,Klášterec nad Orlicí,Klášterec nad Orlicí
+1629,561 84,Líšnice,Líšnice
+1630,561 85,Česká Rybná u Žamberka,Česká Rybná
+1631,561 86,Záchlumí,Záchlumí
+1632,562 01,Ústí nad Orlicí 1,Ústí nad Orlicí
+1633,562 03,Ústí nad Orlicí 3,Ústí nad Orlicí
+1634,562 04,Ústí nad Orlicí 4,Ústí nad Orlicí
+1635,562 06,Ústí nad Orlicí 6,Ústí nad Orlicí
+1636,563 01,Lanškroun,Albrechtice
+1637,564 01,Žamberk,Kunvald
+1638,565 01,Choceň 1,Běstovice
+1639,565 42,Vraclav,Vraclav
+1640,565 43,Zámrsk,Zámrsk
+1641,565 44,Sruby,Sruby
+1642,565 52,České Heřmanice,České Heřmanice
+1643,565 53,Sloupnice,Sloupnice
+1644,565 55,Hrušová,Hrušová
+1645,566 01,Vysoké Mýto,České Heřmanice
+1646,568 02,Svitavy 2,Banín
+1647,569 01,Hradec nad Svitavou,Hradec nad Svitavou
+1648,569 02,Březová nad Svitavou,Březová nad Svitavou
+1649,569 03,Rozhraní,Rozhraní
+1650,569 04,Brněnec,Bohuňov
+1651,569 05,Bělá nad Svitavou,Bělá nad Svitavou
+1652,569 06,Vítějeves,Vítějeves
+1653,569 07,Radiměř,Radiměř
+1654,569 11,Koclířov u Svitav,Koclířov
+1655,569 12,Opatov v Čechách,Opatov
+1656,569 14,Vendolí,Vendolí
+1657,569 21,Moravská Třebová 3,Moravská Třebová
+1658,569 22,Křenov,Křenov
+1659,569 23,Březina u Moravské Třebové,Březina
+1660,569 24,Kunčina,Kunčina
+1661,569 32,Staré Město u Moravské Třebové,Staré Město
+1662,569 33,Třebařov,Třebařov
+1663,569 34,Rychnov na Moravě,Rychnov na Moravě
+1664,569 35,Mladějov na Moravě,Mladějov na Moravě
+1665,569 41,Městečko Trnávka,Městečko Trnávka
+1666,569 42,Chornice,Chornice
+1667,569 43,Jevíčko,Bělá u Jevíčka
+1668,569 44,Jaroměřice u Jevíčka,Jaroměřice
+1669,569 51,Morašice u Litomyšle,Morašice
+1670,569 53,Cerekvice nad Loučnou,Cerekvice nad Loučnou
+1671,569 55,Janov u Litomyšle,Janov
+1672,569 56,Čistá u Litomyšle,Čistá
+1673,569 57,Trstěnice u Litomyšle,Čistá
+1674,569 61,Dolní Újezd u Litomyšle,Dolní Újezd
+1675,569 62,Sebranice u Litomyšle,Sebranice
+1676,569 63,Lubná u Poličky,Lubná
+1677,569 65,Budislav u Litomyšle,Budislav
+1678,569 66,Jarošov u Litomyšle,Jarošov
+1679,569 67,Osík u Litomyšle,Litomyšl
+1680,569 71,Pomezí,Pomezí
+1681,569 72,Rohozná u Poličky,Rohozná
+1682,569 73,Svojanov,Svojanov
+1683,569 74,Trpín,Trpín
+1684,569 82,Borová u Poličky,Borová
+1685,569 91,Jedlová u Poličky,Jedlová
+1686,569 92,Bystré u Poličky,Bystré
+1687,569 93,Korouhev,Korouhev
+1688,569 94,Telecí,Telecí
+1689,570 01,Litomyšl,Benátky
+1690,571 01,Moravská Třebová 1,Staré Město
+1691,572 01,Polička,Březiny
+1692,580 01,Havlíčkův Brod 1,Okrouhlice
+1693,582 21,Pohled,Pohled
+1694,582 22,Přibyslav,Přibyslav
+1695,582 23,Havlíčkova Borová,Havlíčkova Borová
+1696,582 24,Oudoleň,Oudoleň
+1697,582 31,Okrouhlice,Okrouhlice
+1698,582 32,Lipnice nad Sázavou,Lipnice nad Sázavou
+1699,582 33,Dolní Město,Dolní Město
+1700,582 34,Krásná Hora u Havlíčkova Brodu,Krásná Hora
+1701,582 35,Lučice,Lučice
+1702,582 41,Skuhrov u Havlíčkova Brodu,Olešná
+1703,582 42,Kámen u Habrů,Kámen
+1704,582 43,Tis,Tis
+1705,582 44,Sázavka,Sázavka
+1706,582 45,Uhelná Příbram,Uhelná Příbram
+1707,582 51,Šlapanov,Šlapanov
+1708,582 52,Věžnice u Havlíčkova Brodu,Polná
+1709,582 53,Štoky,Lípa
+1710,582 54,Úsobí,Úsobí
+1711,582 55,Herálec u Havlíčkova Brodu,Boňkov
+1712,582 56,Věž,Věž
+1713,582 57,Lípa u Havlíčkova Brodu,Lípa
+1714,582 61,Česká Bělá,Česká Bělá
+1715,582 62,Sobíňov,Sobíňov
+1716,582 63,Ždírec nad Doubravou,Ždírec nad Doubravou
+1717,582 64,Horní Studenec,Podmoklany
+1718,582 65,Slavíkov,Slavíkov
+1719,582 66,Krucemburk,Krucemburk
+1720,582 71,Dolní Krupá,Dolní Krupá
+1721,582 72,Rozsochatec,Rozsochatec
+1722,582 73,Nová Ves u Chotěboře,Nová Ves u Chotěboře
+1723,582 74,Jeřišno,Jeřišno
+1724,582 76,Maleč,Maleč
+1725,582 77,Libice nad Doubravou,Libice nad Doubravou
+1726,582 81,Habry,Habry
+1727,582 82,Golčův Jeníkov,Borek
+1728,582 83,Vilémov u Golčova Jeníkova,Vilémov
+1729,582 86,Leština u Světlé,Leština u Světlé
+1730,582 87,Číhošť,Číhošť
+1731,582 91,Světlá nad Sázavou,Bačkov
+1732,582 92,Kamenná Lhota,Kamenná Lhota
+1733,582 93,Kožlí,Kožlí
+1734,582 94,Hněvkovice u Ledče nad Sázavou,Hněvkovice
+1735,583 01,Chotěboř,Libice nad Doubravou
+1736,584 01,Ledeč nad Sázavou,Bělá
+1737,586 01,Jihlava 1,Jihlava
+1738,586 03,Jihlava 3,Malý Beranov
+1739,588 01,Smrčná,Smrčná
+1740,588 05,Dušejov,Boršov
+1741,588 11,Střítež u Jihlavy,Střítež
+1742,588 12,Dobronín,Dobronín
+1743,588 13,Polná,Brzkov
+1744,588 21,Velký Beranov,Velký Beranov
+1745,588 22,Luka nad Jihlavou,Bítovčice
+1746,588 23,Kamenice u Jihlavy,Kamenice
+1747,588 24,Řehořov,Kamenice
+1748,588 25,Jersín,Jersín
+1749,588 26,Zhoř u Jihlavy,Zhoř
+1750,588 27,Jamné u Jihlavy,Arnolec
+1751,588 31,Puklice,Puklice
+1752,588 32,Brtnice,Brtnice
+1753,588 33,Stonařov,Suchá
+1754,588 34,Dlouhá Brtnice,Dlouhá Brtnice
+1755,588 35,Vílanec,Cerekvička-Rosice
+1756,588 41,Vyskytná nad Jihlavou,Bílý Kámen
+1757,588 42,Větrný Jeníkov,Ústí
+1758,588 44,Rohozná u Jihlavy,Rohozná
+1759,588 45,Dolní Cerekev,Dolní Cerekev
+1760,588 51,Batelov,Batelov
+1761,588 52,Horní Dubenky,Horní Dubenky
+1762,588 54,Mrákotín,Mrákotín
+1763,588 56,Telč,Bohuslavice
+1764,588 61,Kostelec u Jihlavy,Cejle
+1765,588 62,Urbanov,Dyjice
+1766,588 64,Krasonice,Krasonice
+1767,588 65,Nová Říše,Nová Říše
+1768,588 66,Rozseč,Rozseč
+1769,588 67,Stará Říše,Stará Říše
+1770,589 01,Třešť,Pavlov
+1771,591 01,Žďár nad Sázavou 1,Hamry nad Sázavou
+1772,591 02,Žďár nad Sázavou 2,Cikháj
+1773,592 01,Herálec pod Žákovou horou,Herálec
+1774,592 02,Svratka,Sněžné
+1775,592 03,Sněžné,Daňkovice
+1776,592 04,Fryšava pod Žákovou horou,Fryšava pod Žákovou horou
+1777,592 11,Velká Losenice,Sázava
+1778,592 12,Nížkov,Nížkov
+1779,592 13,Bohdalov,Bohdalov
+1780,592 14,Nové Veselí,Bohdalov
+1781,592 21,Škrdlovice,Karlov
+1782,592 31,Nové Město na Moravě,Nové Město na Moravě
+1783,592 32,Jámy,Jámy
+1784,592 33,Radešínská Svratka,Radešínská Svratka
+1785,592 41,Dalečín,Dalečín
+1786,592 42,Jimramov,Jimramov
+1787,592 44,Věcov,Věcov
+1788,592 45,Lísek,Lísek
+1789,592 51,Dolní Rožínka,Blažkov
+1790,592 52,Rožná,Rožná
+1791,592 53,Strážek,Dolní Libochová
+1792,592 54,Moravec,Moravec
+1793,592 55,Bobrová,Bobrová
+1794,592 56,Zvole nad Pernštejnem,Zvole
+1795,592 57,Rozsochy,Rozsochy
+1796,592 61,Doubravník,Borač
+1797,592 62,Nedvědice,Sejřek
+1798,592 63,Štěpánov nad Svratkou,Štěpánov nad Svratkou
+1799,592 64,Prosetín,Prosetín
+1800,592 65,Rovečné,Chlum-Korouhvice
+1801,592 66,Vír,Vír
+1802,593 01,Bystřice nad Pernštejnem,Bohuňov
+1803,594 01,Velké Meziříčí,Baliny
+1804,594 41,Uhřínov,Uhřínov
+1805,594 42,Měřín,Blízkov
+1806,594 44,Radostín nad Oslavou,Kněževes
+1807,594 45,Ostrov nad Oslavou,Ostrov nad Oslavou
+1808,594 51,Křižanov,Křižanov
+1809,594 52,Ořechov u Velkého Meziříčí,Ořechov
+1810,594 53,Osová Bítýška,Březí
+1811,594 54,Křoví,Křoví
+1812,594 55,Dolní Loučky,Kuřimské Jestřabí
+1813,594 56,Žďárec,Kuřimská Nová Ves
+1814,594 57,Vidonín,Vidonín
+1815,594 58,Heřmanov,Heřmanov
+1816,594 61,Bory,Bory
+1817,595 01,Velká Bíteš,Velká Bíteš
+1818,602 00,Brno 2,Brno
+1819,603 00,Brno 3,Brno
+1820,612 00,Brno 12,Brno
+1821,613 00,Brno 13,Brno
+1822,614 00,Brno 14,Brno
+1823,615 00,Brno 15,Brno
+1824,616 00,Brno 16,Brno
+1825,617 00,Brno 17,Brno
+1826,618 00,Brno 18,Brno
+1827,619 00,Brno 19,Brno
+1828,620 00,Brno 20,Brno
+1829,621 00,Brno 21,Brno
+1830,623 00,Brno 23,Brno
+1831,624 00,Brno 24,Brno
+1832,625 00,Brno 25,Brno
+1833,627 00,Brno 27,Brno
+1834,628 00,Brno 28,Brno
+1835,634 00,Brno 34,Brno
+1836,635 00,Brno 35,Brno
+1837,636 00,Brno 36,Brno
+1838,637 00,Brno 37,Brno
+1839,638 00,Brno 38,Brno
+1840,639 00,Brno 39,Brno
+1841,641 00,Brno 41,Brno
+1842,642 00,Brno 42,Brno
+1843,643 00,Brno 43,Brno
+1844,644 00,Brno 44,Brno
+1845,664 01,Bílovice nad Svitavou,Babice nad Svitavou
+1846,664 02,Ochoz u Brna,Ochoz u Brna
+1847,664 03,Podolí u Brna,Podolí
+1848,664 04,Mokrá,Mokrá-Horákov
+1849,664 05,Tvarožná,Jiříkovice
+1850,664 06,Viničné Šumice,Kovalovice
+1851,664 07,Pozořice,Pozořice
+1852,664 08,Blažovice,Blažovice
+1853,664 11,Zbýšov u Brna,Zbýšov
+1854,664 12,Oslavany,Oslavany
+1855,664 17,Tetčice,Omice
+1856,664 23,Čebín,Čebín
+1857,664 24,Drásov,Drásov
+1858,664 31,Lelekovice,Česká
+1859,664 32,Vranov u Brna,Vranov
+1860,664 34,Kuřim,Brno
+1861,664 41,Troubsko,Omice
+1862,664 42,Modřice,Brno
+1863,664 43,Želešice,Hajany
+1864,664 44,Ořechov u Brna,Ořechov
+1865,664 46,Prštice,Prštice
+1866,664 47,Střelice u Brna,Radostice
+1867,664 48,Moravany u Brna,Moravany
+1868,664 49,Ostopovice,Ostopovice
+1869,664 51,Šlapanice u Brna,Šlapanice
+1870,664 52,Sokolnice,Sokolnice
+1871,664 53,Újezd u Brna,Újezd u Brna
+1872,664 54,Těšany,Nesvačilka
+1873,664 55,Moutnice,Měnín
+1874,664 56,Blučina,Blučina
+1875,664 57,Měnín,Měnín
+1876,664 58,Prace,Prace
+1877,664 61,Rajhrad,Holasice
+1878,664 62,Hrušovany u Brna,Hrušovany u Brna
+1879,664 63,Žabčice,Přísnotice
+1880,664 64,Dolní Kounice,Dolní Kounice
+1881,664 65,Malešovice,Malešovice
+1882,664 66,Němčičky u Židlochovic,Medlov
+1883,664 67,Syrovice,Bratčice
+1884,664 71,Veverská Bítýška,Braníškov
+1885,664 75,Deblín,Deblín
+1886,664 81,Ostrovačice,Brno
+1887,664 82,Říčany u Brna,Říčany
+1888,664 83,Domašov u Brna,Domašov
+1889,664 84,Zastávka u Brna,Babice u Rosic
+1890,664 88,Zbraslav,Zbraslav
+1891,664 91,Ivančice,Ivančice
+1892,665 01,Rosice u Brna,Omice
+1893,666 01,Tišnov 1,Březina
+1894,666 02,Předklášteří,Předklášteří
+1895,666 03,Tišnov 3,Březina
+1896,667 01,Židlochovice,Vojkovice
+1897,669 02,Znojmo 2,Bezkov
+1898,669 04,Znojmo 4,Znojmo
+1899,671 01,Citonice,Citonice
+1900,671 02,Šumná,Chvalatice
+1901,671 03,Vranov nad Dyjí,Vranov nad Dyjí
+1902,671 06,Šafov,Starý Petřín
+1903,671 07,Uherčice u Znojma,Bítov
+1904,671 10,Výdejní místo Bítov,Bítov
+1905,671 22,Šatov,Šatov
+1906,671 24,Vrbovec,Vrbovec
+1907,671 25,Hodonice,Hodonice
+1908,671 26,Dyjákovice,Dyjákovice
+1909,671 27,Hrádek u Znojma,Hrádek
+1910,671 28,Jaroslavice,Znojmo
+1911,671 29,Strachotice,Strachotice
+1912,671 31,Únanov,Únanov
+1913,671 32,Plaveč,Plaveč
+1914,671 33,Mikulovice u Znojma,Mikulovice
+1915,671 34,Horní Dunajovice,Horní Dunajovice
+1916,671 38,Višňové u Znojma,Višňové
+1917,671 39,Výdejní místo Běhařovice,Běhařovice
+1918,671 40,Tavíkovice,Tavíkovice
+1919,671 42,Vémyslice,Vémyslice
+1920,671 51,Kravsko,Znojmo
+1921,671 52,Hluboké Mašůvky,Hluboké Mašůvky
+1922,671 53,Jevišovice,Bojanovice
+1923,671 54,Hostim,Blanné
+1924,671 55,Blížkovice,Blížkovice
+1925,671 56,Pavlice,Grešlové Mýto
+1926,671 61,Prosiměřice,Bantice
+1927,671 62,Oleksovice,Oleksovice
+1928,671 63,Lechovice,Lechovice
+1929,671 64,Božice,Božice
+1930,671 65,Břežany u Znojma,Břežany
+1931,671 67,Hrušovany nad Jevišovkou,Hrušovany nad Jevišovkou
+1932,671 68,Hrabětice,Hrabětice
+1933,671 69,Hevlín,Hevlín
+1934,671 71,Hostěradice,Hostěradice
+1935,671 72,Miroslav,Miroslav
+1936,671 73,Tulešice,Čermákovice
+1937,671 75,Loděnice u Moravského Krumlova,Jezeřany-Maršovice
+1938,671 76,Olbramovice u Moravského Krumlova,Bohutice
+1939,671 77,Branišovice,Branišovice
+1940,671 78,Jiřice u Miroslavi,Borotice
+1941,671 81,Znojmo 5,Nový Šaldorf-Sedlešovice
+1942,671 82,Dobšice,Dobšice
+1943,672 01,Moravský Krumlov,Dobelice
+1944,674 01,Třebíč 1,Třebíč
+1945,675 01,Vladislav,Číměř
+1946,675 02,Koněšín,Koněšín
+1947,675 03,Budišov u Třebíče,Budišov
+1948,675 04,Hodov,Hodov
+1949,675 05,Rudíkov,Bochovice
+1950,675 06,Výdejní místo Benetice,Benetice
+1951,675 07,Čechtín,Čechtín
+1952,675 08,Kouty u Třebíče,Kouty
+1953,675 21,Okříšky,Bransouze
+1954,675 22,Stařeč,Čechočovice
+1955,675 23,Kojetice na Moravě,Kojetice
+1956,675 24,Čáslavice,Čáslavice
+1957,675 25,Rokytnice nad Rokytnou,Rokytnice nad Rokytnou
+1958,675 26,Želetava,Želetava
+1959,675 27,Předín,Brtnička
+1960,675 28,Opatov na Moravě,Opatov
+1961,675 29,Kněžice u Třebíče,Kněžice
+1962,675 31,Jemnice,Chotěbudice
+1963,675 32,Třebelovice,Bačkovice
+1964,675 33,Dešov,Dešov
+1965,675 34,Police u Jemnice,Police
+1966,675 41,Nové Syrovice,Dědice
+1967,675 42,Budkov,Budkov
+1968,675 43,Domamil,Domamil
+1969,675 44,Lesonice,Babice
+1970,675 45,Šebkovice,Šebkovice
+1971,675 50,Dukovany-elektrárna,Dukovany
+1972,675 51,Jaroměřice nad Rokytnou,Blatnice
+1973,675 52,Lipník u Hrotovic,Třebenice
+1974,675 53,Valeč u Hrotovic,Valeč
+1975,675 54,Dalešice,Dalešice
+1976,675 55,Hrotovice,Bačice
+1977,675 56,Dukovany,Dukovany
+1978,675 57,Rouchovany,Biskupice-Pulkov
+1979,675 59,Radkovice u Hrotovic,Radkovice u Hrotovic
+1980,675 60,Myslibořice,Myslibořice
+1981,675 71,Náměšť nad Oslavou,Zahrádka
+1982,675 73,Rapotice,Kralice nad Oslavou
+1983,675 74,Březník,Březník
+1984,675 75,Mohelno,Kladeruby nad Oslavou
+1985,675 76,Hartvíkovice,Hartvíkovice
+1986,675 77,Kramolín-vodní dílo,Kramolín
+1987,675 78,Čikov,Čikov
+1988,675 79,Tasov,Tasov
+1989,676 02,Moravské Budějovice 2,Častohostice
+1990,678 01,Blansko 1,Blansko
+1991,679 01,Skalice nad Svitavou,Jabloňany
+1992,679 02,Rájec-Jestřebí,Blansko
+1993,679 03,Olomučany,Blansko
+1994,679 04,Adamov 1,Adamov
+1995,679 05,Křtiny,Březina
+1996,679 06,Jedovnice,Jedovnice
+1997,679 07,Kotvrdovice,Kotvrdovice
+1998,679 11,Doubravice nad Svitavou,Doubravice nad Svitavou
+1999,679 13,Sloup v Moravském Krasu,Holštejn
+2000,679 14,Ostrov u Macochy,Ostrov u Macochy
+2001,679 15,Lipovec u Blanska,Lipovec
+2002,679 21,Černá Hora,Bořitov
+2003,679 22,Lipůvka,Černá Hora
+2004,679 23,Lomnice u Tišnova,Běleč
+2005,679 24,Výdejní místo Unín,Hluboké Dvory
+2006,679 31,Sebranice u Boskovic,Sebranice
+2007,679 32,Svitávka,Svitávka
+2008,679 33,Vísky u Letovic,Vísky
+2009,679 34,Knínice,Knínice
+2010,679 35,Šebetov,Šebetov
+2011,679 36,Vanovice,Vanovice
+2012,679 37,Borotín u Boskovic,Borotín
+2013,679 38,Cetkovice,Cetkovice
+2014,679 39,Úsobrno,Úsobrno
+2015,679 51,Němčice u Boskovic,Němčice
+2016,679 52,Žďárná,Žďárná
+2017,679 53,Benešov u Boskovic,Benešov
+2018,679 61,Letovice,Letovice
+2019,679 62,Křetín,Křetín
+2020,679 63,Velké Opatovice,Velké Opatovice
+2021,679 71,Lysice,Bedřichov
+2022,679 72,Kunštát na Moravě,Kunštát
+2023,679 73,Rozseč nad Kunštátem,Rozseč nad Kunštátem
+2024,679 74,Olešnice na Moravě,Crhov
+2025,679 75,Výdejní místo Černovice,Černovice
+2026,679 76,Drnovice u Lysic,Drnovice
+2027,680 01,Boskovice,Boskovice
+2028,682 01,Vyškov 1,Prusy-Boškůvky
+2029,683 01,Rousínov u Vyškova,Rousínov
+2030,683 03,Luleč,Luleč
+2031,683 04,Drnovice,Drnovice
+2032,683 05,Račice-Pístovice,Račice-Pístovice
+2033,683 08,Studnice u Vyškova,Nové Sady
+2034,683 21,Pustiměř,Drysice
+2035,683 23,Ivanovice na Hané,Ivanovice na Hané
+2036,683 33,Nesovice,Brankovice
+2037,683 35,Letonice u Vyškova,Letonice
+2038,683 41,Bohdalice,Bohdalice-Pavlovice
+2039,683 51,Holubice,Holubice
+2040,683 52,Křenovice u Slavkova,Hostěrádky-Rešov
+2041,683 54,Otnice,Bošovice
+2042,684 01,Slavkov u Brna,Heršpice
+2043,685 01,Bučovice,Bohaté Málkovice
+2044,686 01,Uherské Hradiště 1,Uherské Hradiště
+2045,686 03,Staré Město u Uherského Hradiště,Staré Město
+2046,686 04,Kunovice,Kunovice
+2047,686 05,Uherské Hradiště 5,Uherské Hradiště
+2048,686 06,Uherské Hradiště 6,Uherské Hradiště
+2049,686 09,Míkovice,Uherské Hradiště
+2050,687 03,Babice u Uherského Hradiště,Babice
+2051,687 04,Traplice,Jankovice
+2052,687 05,Jalubí,Jalubí
+2053,687 06,Velehrad,Modrá
+2054,687 07,Tupesy,Tupesy
+2055,687 08,Buchlovice,Břestek
+2056,687 09,Boršice u Buchlovic,Boršice
+2057,687 10,Zlechov,Zlechov
+2058,687 11,Topolná,Topolná
+2059,687 12,Bílovice u Uherského Hradiště,Bílovice
+2060,687 13,Březolupy,Březolupy
+2061,687 22,Ostrožská Nová Ves,Ostrožská Nová Ves
+2062,687 23,Ostrožská Lhota,Ostrožská Lhota
+2063,687 24,Uherský Ostroh,Uherský Ostroh
+2064,687 25,Hluk,Hluk
+2065,687 31,Šumice,Šumice
+2066,687 32,Nezdenice,Nezdenice
+2067,687 33,Hradčovice,Drslavice
+2068,687 34,Uherský Brod 3,Uherský Brod
+2069,687 37,Polešovice,Ořechov
+2070,687 38,Nedakonice,Nedakonice
+2071,687 41,Medlovice,Hostějov
+2072,687 42,Osvětimany,Osvětimany
+2073,687 51,Nivnice,Nivnice
+2074,687 52,Korytná,Korytná
+2075,687 53,Suchá Loz,Suchá Loz
+2076,687 54,Bánov u Uherského Brodu,Bánov
+2077,687 55,Bystřice pod Lopeníkem,Bystřice pod Lopeníkem
+2078,687 56,Prakšice,Pašovice
+2079,687 61,Vlčnov,Vlčnov
+2080,687 62,Dolní Němčí,Dolní Němčí
+2081,687 63,Boršice u Blatnice,Boršice u Blatnice
+2082,687 64,Horní Němčí,Horní Němčí
+2083,687 65,Strání,Strání
+2084,687 66,Květná,Strání
+2085,687 67,Březová u Uherského Brodu,Březová
+2086,687 71,Bojkovice,Bojkovice
+2087,687 74,Starý Hrozenkov,Bojkovice
+2088,688 01,Uherský Brod 1,Uherský Brod
+2089,690 02,Břeclav 2,Břeclav
+2090,690 03,Břeclav 3,Břeclav
+2091,690 06,Břeclav 6,Břeclav
+2092,691 01,Moravský Žižkov,Moravský Žižkov
+2093,691 02,Velké Bílovice,Velké Bílovice
+2094,691 03,Rakvice,Rakvice
+2095,691 04,Přítluky,Přítluky
+2096,691 05,Zaječí,Zaječí
+2097,691 06,Velké Pavlovice,Velké Pavlovice
+2098,691 07,Němčičky,Němčičky
+2099,691 08,Bořetice u Hustopečí,Bořetice
+2100,691 09,Vrbice u Břeclavě,Vrbice
+2101,691 10,Kobylí na Moravě,Kobylí
+2102,691 11,Brumovice na Moravě,Brumovice
+2103,691 12,Boleradice,Boleradice
+2104,691 21,Sedlec u Mikulova,Sedlec
+2105,691 22,Pasohlávky,Pasohlávky
+2106,691 23,Pohořelice,Cvrčovice
+2107,691 24,Přibice,Přibice
+2108,691 25,Vranovice,Vranovice
+2109,691 26,Pouzdřany,Pouzdřany
+2110,691 27,Popice,Popice
+2111,691 29,Dolní Věstonice,Dolní Věstonice
+2112,691 30,Vlasatice,Vlasatice
+2113,691 41,Břeclav 4,Břeclav
+2114,691 42,Valtice,Valtice
+2115,691 43,Hlohovec u Břeclavě,Hlohovec
+2116,691 44,Lednice na Moravě,Lednice
+2117,691 45,Podivín,Podivín
+2118,691 46,Ladná,Břeclav
+2119,691 51,Lanžhot,Lanžhot
+2120,691 52,Kostice u Břeclavě,Kostice
+2121,691 53,Tvrdonice,Tvrdonice
+2122,691 54,Týnec u Břeclavě,Týnec
+2123,691 55,Moravská Nová Ves,Moravská Nová Ves
+2124,691 56,Hrušky,Hrušky
+2125,691 62,Uherčice,Uherčice
+2126,691 63,Velké Němčice,Velké Němčice
+2127,691 64,Nosislav,Nosislav
+2128,691 65,Křepice u Hustopečí,Křepice
+2129,691 67,Šakvice,Šakvice
+2130,691 68,Starovičky,Starovičky
+2131,691 71,Diváky,Diváky
+2132,691 72,Klobouky u Brna,Klobouky u Brna
+2133,691 73,Krumvíř,Dambořice
+2134,691 74,Velké Hostěrádky,Velké Hostěrádky
+2135,691 75,Borkovany,Borkovany
+2136,691 76,Šitbořice,Šitbořice
+2137,691 81,Březí u Mikulova,Březí
+2138,691 82,Novosedly na Moravě,Novosedly
+2139,691 83,Drnholec,Drnholec
+2140,691 85,Dolní Dunajovice,Dolní Dunajovice
+2141,691 86,Perná,Perná
+2142,691 88,Milovice u Mikulova,Milovice
+2143,691 89,Bulhary,Bulhary
+2144,692 01,Mikulov na Moravě,Bavory
+2145,693 01,Hustopeče u Brna,Horní Bojanovice
+2146,695 01,Hodonín 1,Hodonín
+2147,696 01,Rohatec,Rohatec
+2148,696 02,Ratíškovice,Ratíškovice
+2149,696 03,Dubňany,Dubňany
+2150,696 04,Svatobořice,Svatobořice-Mistřín
+2151,696 05,Milotice u Kyjova,Milotice
+2152,696 06,Vacenovice,Vacenovice
+2153,696 11,Mutěnice,Mutěnice
+2154,696 12,Hovorany,Hovorany
+2155,696 13,Šardice,Šardice
+2156,696 14,Čejč,Čejč
+2157,696 15,Čejkovice,Čejkovice
+2158,696 16,Starý Poddvorov,Dolní Bojanovice
+2159,696 17,Dolní Bojanovice,Dolní Bojanovice
+2160,696 18,Lužice u Hodonína,Lužice
+2161,696 19,Mikulčice,Mikulčice
+2162,696 21,Prušánky,Josefov
+2163,696 31,Bukovany,Bukovany
+2164,696 32,Ždánice,Ždánice
+2165,696 33,Archlebov,Archlebov
+2166,696 34,Žarošice,Žarošice
+2167,696 35,Dambořice,Dambořice
+2168,696 36,Násedlovice,Násedlovice
+2169,696 37,Želetice,Nenkovice
+2170,696 38,Strážovice,Stavěšice
+2171,696 39,Lovčice,Lovčice
+2172,696 41,Vlkoš,Skoronice
+2173,696 42,Vracov,Vracov
+2174,696 47,Žeravice,Žeravice
+2175,696 48,Ježov,Ježov
+2176,696 49,Žádovice,Kelčany
+2177,696 50,Moravany,Hýsly
+2178,696 51,Kostelec,Čeložnice
+2179,696 55,Kyjov 3,Kyjov
+2180,696 61,Vnorovy,Vnorovy
+2181,696 62,Strážnice,Strážnice
+2182,696 63,Hroznová Lhota,Hroznová Lhota
+2183,696 64,Kněždub,Kněždub
+2184,696 66,Sudoměřice nad Moravou,Sudoměřice
+2185,696 67,Radějov u Hodonína,Radějov
+2186,696 71,Blatnice pod Svatým Antonínkem,Blatnice pod Svatým Antonínkem
+2187,696 72,Lipov,Lipov
+2188,696 73,Hrubá Vrbka,Hrubá Vrbka
+2189,696 74,Velká nad Veličkou,Javorník
+2190,696 76,Louka,Louka
+2191,696 81,Bzenec,Bzenec
+2192,696 83,Domanín,Domanín
+2193,696 84,Těmice,Syrovín
+2194,696 85,Moravský Písek,Bzenec
+2195,697 01,Kyjov 1,Kyjov
+2196,698 01,Veselí nad Moravou,Veselí nad Moravou
+2197,700 30,Ostrava 30,Ostrava
+2198,702 00,Ostrava 2,Ostrava
+2199,703 00,Ostrava 3,Ostrava
+2200,708 00,Ostrava 8,Ostrava
+2201,709 00,Ostrava 9,Ostrava
+2202,710 00,Ostrava 10,Ostrava
+2203,711 00,Ostrava 11,Ostrava
+2204,712 00,Ostrava 12,Ostrava
+2205,713 00,Ostrava 13,Ostrava
+2206,715 00,Ostrava 15,Ostrava
+2207,716 00,Ostrava 16,Ostrava
+2208,717 00,Ostrava 17,Ostrava
+2209,718 00,Ostrava 18,Ostrava
+2210,719 00,Ostrava 19,Ostrava
+2211,720 00,Ostrava 20,Ostrava
+2212,721 00,Ostrava 21,Ostrava
+2213,722 00,Ostrava 22,Ostrava
+2214,723 00,Ostrava 23,Ostrava
+2215,724 00,Ostrava 24,Ostrava
+2216,725 25,Ostrava 25,Ostrava
+2217,725 26,Ostrava 26,Ostrava
+2218,725 27,Ostrava 27,Ostrava
+2219,725 28,Ostrava 28,Ostrava
+2220,725 29,Ostrava 29,Ostrava
+2221,733 01,Karviná 1,Karviná
+2222,734 01,Karviná 4,Karviná
+2223,735 03,Karviná 3,Karviná
+2224,735 06,Karviná 6,Karviná
+2225,735 11,Orlová 1,Orlová
+2226,735 14,Orlová 4,Orlová
+2227,735 31,Bohumín 3,Bohumín
+2228,735 32,Rychvald,Rychvald
+2229,735 33,Doubrava,Doubrava
+2230,735 34,Stonava,Stonava
+2231,735 35,Horní Suchá,Horní Suchá
+2232,735 41,Petřvald u Karviné,Petřvald
+2233,735 42,Těrlicko,Těrlicko
+2234,735 43,Albrechtice u Českého Těšína,Albrechtice
+2235,735 51,Bohumín 5,Bohumín
+2236,735 52,Bohumín 4,Bohumín
+2237,735 53,Dolní Lutyně,Dolní Lutyně
+2238,735 61,Chotěbuz,Chotěbuz
+2239,735 62,Český Těšín 6,Český Těšín
+2240,735 64,Havířov 4,Havířov
+2241,735 71,Dětmarovice,Dětmarovice
+2242,735 72,Petrovice u Karviné,Petrovice u Karviné
+2243,735 81,Bohumín 1,Bohumín
+2244,736 01,Havířov 1,Havířov
+2245,737 01,Český Těšín 1,Český Těšín
+2246,738 01,Frýdek-Místek 1,Frýdek-Místek
+2247,739 01,Baška,Baška
+2248,739 04,Pražmo,Krásná
+2249,739 11,Frýdlant nad Ostravicí,Frýdlant nad Ostravicí
+2250,739 12,Čeladná,Čeladná
+2251,739 13,Kunčice pod Ondřejníkem,Kunčice pod Ondřejníkem
+2252,739 14,Ostravice,Ostravice
+2253,739 15,Staré Hamry,Bílá
+2254,739 21,Paskov,Paskov
+2255,739 23,Stará Ves nad Ondřejnicí,Stará Ves nad Ondřejnicí
+2256,739 24,Krmelín,Krmelín
+2257,739 25,Sviadnov,Sviadnov
+2258,739 32,Vratimov 1,Vratimov
+2259,739 34,Šenov u Ostravy,Ostrava
+2260,739 36,Sedliště,Bruzovice
+2261,739 37,Horní Bludovice,Horní Bludovice
+2262,739 38,Dolní Domaslavice,Dolní Domaslavice
+2263,739 39,Lučina,Lučina
+2264,739 41,Palkovice,Palkovice
+2265,739 42,Frýdek-Místek 8,Frýdek-Místek
+2266,739 43,Staříč,Staříč
+2267,739 44,Brušperk,Brušperk
+2268,739 45,Fryčovice,Fryčovice
+2269,739 46,Hukvaldy,Hukvaldy
+2270,739 47,Kozlovice,Kozlovice
+2271,739 49,Metylovice,Metylovice
+2272,739 51,Dobrá,Dobrá
+2273,739 53,Hnojník,Dobratice
+2274,739 55,Smilovice u Třince,Třinec
+2275,739 59,Střítež,Střítež
+2276,739 61,Třinec 1,Třinec
+2277,739 81,Milíkov u Jablunkova,Košařiska
+2278,739 84,Písek,Písek
+2279,739 85,Bukovec,Bukovec
+2280,739 91,Jablunkov,Bocanovice
+2281,739 92,Návsí,Návsí
+2282,739 94,Vendryně,Třinec
+2283,739 95,Bystřice nad Olší,Bystřice
+2284,739 97,Hrádek,Hrádek
+2285,739 98,Mosty u Jablunkova,Hrčava
+2286,741 01,Nový Jičín 1,Bernartice nad Odrou
+2287,742 01,Suchdol nad Odrou,Suchdol nad Odrou
+2288,742 13,Studénka 3,Studénka
+2289,742 21,Kopřivnice,Kopřivnice
+2290,742 31,Starý Jičín,Starý Jičín
+2291,742 33,Jeseník nad Odrou,Jeseník nad Odrou
+2292,742 35,Odry,Odry
+2293,742 36,Jakubčovice nad Odrou,Jakubčovice nad Odrou
+2294,742 37,Spálov,Spálov
+2295,742 42,Šenov u Nového Jičína,Šenov u Nového Jičína
+2296,742 43,Pustějov,Pustějov
+2297,742 45,Fulnek 1,Fulnek
+2298,742 47,Hladké Životice,Hladké Životice
+2299,742 51,Mošnov,Mošnov
+2300,742 53,Kunín,Kunín
+2301,742 54,Bartošovice,Bartošovice
+2302,742 55,Albrechtičky,Albrechtičky
+2303,742 56,Sedlnice,Sedlnice
+2304,742 57,Libhošť,Libhošť
+2305,742 58,Příbor,Fryčovice
+2306,742 60,Petřvald u Nového Jičína,Petřvald
+2307,742 65,Rybí,Rybí
+2308,742 66,Štramberk,Štramberk
+2309,742 67,Ženklava,Ženklava
+2310,742 71,Hodslavice,Hodslavice
+2311,742 72,Mořkov,Mořkov
+2312,742 73,Veřovice,Veřovice
+2313,742 74,Tichá,Tichá
+2314,742 75,Lichnov,Lichnov
+2315,742 81,Bravantice,Bravantice
+2316,742 82,Jistebník,Jistebník
+2317,742 83,Klimkovice,Klimkovice
+2318,742 85,Vřesina u Bílovce,Klimkovice
+2319,742 91,Velké Albrechtice,Velké Albrechtice
+2320,742 92,Bílovec 5,Bílovec
+2321,742 93,Slatina u Bílovce,Slatina
+2322,743 01,Bílovec 1,Bílov
+2323,744 01,Frenštát pod Radhoštěm,Bordovice
+2324,746 01,Opava 1,Opava
+2325,747 05,Opava 5,Opava
+2326,747 06,Opava 6,Chvalíkovice
+2327,747 07,Opava 7,Opava
+2328,747 11,Kozmice u Hlučína,Kozmice
+2329,747 14,Ludgeřovice,Ludgeřovice
+2330,747 15,Šilheřovice,Šilheřovice
+2331,747 16,Hať u Hlučína,Hať
+2332,747 17,Darkovice,Darkovice
+2333,747 18,Píšť,Píšť
+2334,747 19,Bohuslavice u Hlučína,Bohuslavice
+2335,747 20,Vřesina u Hlučína,Vřesina
+2336,747 21,Kravaře u Hlučína,Kravaře
+2337,747 22,Dolní Benešov,Dolní Benešov
+2338,747 23,Bolatice,Bělá
+2339,747 24,Chuchelná,Chuchelná
+2340,747 25,Sudice,Rohov
+2341,747 27,Kobeřice,Kobeřice
+2342,747 28,Štěpánkovice,Štěpánkovice
+2343,747 31,Velké Hoštice,Chlebičov
+2344,747 33,Oldřišov,Oldřišov
+2345,747 35,Hněvošice,Hněvošice
+2346,747 41,Hradec nad Moravicí,Hradec nad Moravicí
+2347,747 43,Větřkovice u Vítkova,Větřkovice
+2348,747 44,Březová u Vítkova,Březová
+2349,747 45,Skřipov u Opavy,Skřipov
+2350,747 47,Vítkov 3,Vítkov
+2351,747 51,Stěbořice,Stěbořice
+2352,747 52,Hlavnice,Bratříkovice
+2353,747 53,Jakartovice,Jakartovice
+2354,747 54,Mladecko,Mladecko
+2355,747 55,Litultovice,Jakartovice
+2356,747 56,Dolní Životice,Dolní Životice
+2357,747 57,Slavkov u Opavy,Slavkov
+2358,747 61,Raduň,Raduň
+2359,747 62,Mokré Lazce,Mokré Lazce
+2360,747 63,Hrabyně 1,Hrabyně
+2361,747 64,Velká Polom,Budišovice
+2362,747 66,Dolní Lhota,Dolní Lhota
+2363,747 67,Hrabyně 3,Hrabyně
+2364,747 68,Kyjovice,Kyjovice
+2365,747 69,Pustá Polom,Hlubočec
+2366,747 70,Opava 9,Opava
+2367,747 71,Brumovice,Brumovice
+2368,747 73,Vávrovice,Opava
+2369,747 74,Neplachovice,Holasovice
+2370,747 75,Velké Heraltice,Velké Heraltice
+2371,747 81,Otice,Otice
+2372,747 82,Štáblovice,Štáblovice
+2373,747 84,Melč,Hradec nad Moravicí
+2374,747 86,Kružberk,Kružberk
+2375,747 87,Budišov nad Budišovkou,Budišov nad Budišovkou
+2376,747 91,Štítina,Štítina
+2377,747 92,Háj ve Slezsku,Háj ve Slezsku
+2378,747 94,Děhylov,Děhylov
+2379,747 95,Suché Lazce,Opava
+2380,748 01,Hlučín,Hlučín
+2381,749 01,Vítkov 1,Čermná ve Slezsku
+2382,750 02,Přerov 2,Beňov
+2383,751 01,Tovačov,Tovačov
+2384,751 02,Troubky nad Bečvou,Troubky
+2385,751 03,Brodek u Přerova,Brodek u Přerova
+2386,751 04,Rokytnice u Přerova,Rokytnice
+2387,751 05,Kokory,Kokory
+2388,751 11,Radslavice,Hradčany
+2389,751 14,Dřevohostice,Dřevohostice
+2390,751 15,Domaželice u Přerova,Čechy
+2391,751 16,Želatovice,Podolí
+2392,751 17,Horní Moštěnice,Horní Moštěnice
+2393,751 18,Říkovice,Říkovice
+2394,751 19,Vlkoš u Přerova,Vlkoš
+2395,751 21,Prosenice,Buk
+2396,751 22,Osek nad Bečvou,Osek nad Bečvou
+2397,751 23,Dolní Újezd,Dolní Újezd
+2398,751 24,Přerov 4,Přerov
+2399,751 25,Veselíčko u Lipníka nad Bečvou,Lazníčky
+2400,751 27,Výdejní místo Penčice,Přerov
+2401,751 31,Lipník nad Bečvou,Bohuslávky
+2402,751 44,Polkovice,Polkovice
+2403,752 01,Kojetín,Kojetín
+2404,753 01,Hranice 1,Olšovec
+2405,753 52,Skalička u Hranic,Skalička
+2406,753 53,Všechovice,Býškovice
+2407,753 54,Soběchleby,Bezuchov
+2408,753 55,Paršovice,Paršovice
+2409,753 56,Opatovice u Hranic,Opatovice
+2410,753 61,Hranice 4,Hranice
+2411,753 62,Potštát,Potštát
+2412,753 63,Střítež nad Ludinou,Střítež nad Ludinou
+2413,753 64,Bělotín,Bělotín
+2414,753 66,Hustopeče nad Bečvou,Hustopeče nad Bečvou
+2415,753 67,Milotice nad Bečvou,Milotice nad Bečvou
+2416,753 68,Černotín,Černotín
+2417,755 01,Vsetín 1,Vsetín
+2418,756 01,Hovězí,Hovězí
+2419,756 02,Huslenky,Huslenky
+2420,756 03,Halenkov,Halenkov
+2421,756 04,Nový Hrozenkov,Nový Hrozenkov
+2422,756 05,Karolinka,Karolinka
+2423,756 06,Velké Karlovice,Velké Karlovice
+2424,756 07,Zděchov,Zděchov
+2425,756 11,Valašská Polanka,Leskovec
+2426,756 12,Horní Lideč,Horní Lideč
+2427,756 14,Francova Lhota,Francova Lhota
+2428,756 21,Ratiboř u Vsetína,Kateřinice
+2429,756 22,Hošťálková u Vsetína,Hošťálková
+2430,756 23,Jablůnka nad Bečvou,Jablůnka
+2431,756 24,Bystřička,Bystřička
+2432,756 25,Růžďka,Růžďka
+2433,756 27,Valašská Bystřice,Malá Bystřice
+2434,756 31,Liptál,Liptál
+2435,756 41,Lešná,Lešná
+2436,756 42,Choryně,Choryně
+2437,756 43,Kelč,Kelč
+2438,756 44,Loučka,Kunovice
+2439,756 45,Branky,Branky
+2440,756 51,Zašová,Zašová
+2441,756 52,Střítež nad Bečvou,Střítež nad Bečvou
+2442,756 53,Vidče,Vidče
+2443,756 54,Zubří,Zašová
+2444,756 55,Dolní Bečva,Dolní Bečva
+2445,756 56,Prostřední Bečva,Prostřední Bečva
+2446,756 57,Horní Bečva,Horní Bečva
+2447,756 61,Rožnov pod Radhoštěm 1,Dolní Bečva
+2448,756 62,Hutisko-Solanec,Hutisko-Solanec
+2449,756 63,Krhová,Krhová
+2450,757 01,Valašské Meziříčí 1,Valašské Meziříčí
+2451,760 01,Zlín 1,Březnice
+2452,760 05,Zlín 5,Zlín
+2453,763 01,Mysločovice,Hostišová
+2454,763 02,Zlín 4,Zlín
+2455,763 07,Velký Ořechov,Dobrkovice
+2456,763 10,Hvozdná,Hvozdná
+2457,763 11,Želechovice nad Dřevnicí,Zlín
+2458,763 12,Vizovice,Bratřejov
+2459,763 13,Jasenná u Vizovic,Jasenná
+2460,763 14,Zlín 12,Zlín
+2461,763 15,Slušovice,Březová
+2462,763 16,Fryšták,Fryšták
+2463,763 17,Lukov u Zlína,Lukov
+2464,763 18,Trnava u Zlína,Podkopná Lhota
+2465,763 19,Kašava,Držková
+2466,763 21,Slavičín,Bohuslavice nad Vláří
+2467,763 23,Dolní Lhota u Luhačovic,Dolní Lhota
+2468,763 24,Vlachovice,Haluzice
+2469,763 25,Újezd u Valašských Klobouk,Drnovice
+2470,763 26,Luhačovice,Dolní Lhota
+2471,763 31,Brumov-Bylnice,Brumov-Bylnice
+2472,763 32,Nedašov,Návojná
+2473,763 33,Štítná nad Vláří,Jestřabí
+2474,763 34,Brumov-Bylnice 3,Brumov-Bylnice
+2475,763 41,Biskupice u Luhačovic,Biskupice
+2476,763 45,Březůvky,Březůvky
+2477,763 51,Bohuslavice u Zlína,Bohuslavice u Zlína
+2478,763 61,Napajedla,Komárov
+2479,763 62,Tlumačov,Tlumačov
+2480,763 63,Halenkovice,Halenkovice
+2481,763 64,Spytihněv,Spytihněv
+2482,765 02,Otrokovice 2,Otrokovice
+2483,766 01,Valašské Klobouky,Křekov
+2484,767 01,Kroměříž 1,Bařice-Velké Těšany
+2485,768 01,Výdejní místo Jarohněvice,Jarohněvice
+2486,768 02,Zdounky,Cetechovice
+2487,768 03,Roštín,Roštín
+2488,768 04,Střílky,Střílky
+2489,768 05,Koryčany,Koryčany
+2490,768 11,Chropyně,Chropyně
+2491,768 12,Rataje u Kroměříže,Rataje
+2492,768 13,Litenčice,Honětice
+2493,768 21,Kvasice,Bělov
+2494,768 23,Břest,Břest
+2495,768 24,Hulín,Hulín
+2496,768 31,Zlobice,Zlobice
+2497,768 32,Zborovice,Zborovice
+2498,768 33,Morkovice-Slížany,Dřínov
+2499,768 34,Pačlavice,Pačlavice
+2500,768 41,Bystřice pod Hostýnem 7,Bystřice pod Hostýnem
+2501,768 42,Prusinovice,Prusinovice
+2502,768 43,Kostelec u Holešova,Kostelec u Holešova
+2503,768 52,Míškovice u Holešova,Kurovice
+2504,768 61,Bystřice pod Hostýnem 1,Bystřice pod Hostýnem
+2505,768 71,Rajnochovice,Komárno
+2506,768 72,Chvalčov,Chvalčov
+2507,768 75,Loukov,Loukov
+2508,769 01,Holešov,Bořenovice
+2509,779 00,Olomouc 9,Olomouc
+2510,783 01,Olomouc 18,Olomouc
+2511,783 05,Horní Loděnice,Horní Loděnice
+2512,783 06,Domašov nad Bystřicí,Domašov nad Bystřicí
+2513,783 07,Město Libavá,Město Libavá
+2514,783 13,Štěpánov u Olomouce,Štěpánov
+2515,783 14,Bohuňovice,Bohuňovice
+2516,783 16,Dolany u Olomouce,Bělkovice-Lašťany
+2517,783 21,Chudobín,Bílá Lhota
+2518,783 22,Cholina,Bílsko
+2519,783 24,Slavětín,Luká
+2520,783 25,Bouzov,Bouzov
+2521,783 32,Náklo,Náklo
+2522,783 33,Příkazy,Příkazy
+2523,783 35,Horka nad Moravou,Olomouc
+2524,783 36,Křelov-Břuchotín,Křelov-Břuchotín
+2525,783 42,Slatinice,Slatinice
+2526,783 44,Náměšť na Hané,Drahanovice
+2527,783 45,Senice na Hané,Senice na Hané
+2528,783 46,Těšetice,Luběnice
+2529,783 47,Hněvotín,Hněvotín
+2530,783 49,Lutín,Lutín
+2531,783 53,Velká Bystřice,Velká Bystřice
+2532,783 54,Přáslavice,Přáslavice
+2533,783 55,Velký Újezd,Velký Újezd
+2534,783 56,Doloplazy,Doloplazy
+2535,783 57,Tršice,Tršice
+2536,783 61,Hlubočky 1,Hlubočky
+2537,783 65,Hlubočky 3,Hlubočky
+2538,783 72,Velký Týnec 1,Velký Týnec
+2539,783 73,Grygov,Grygov
+2540,783 75,Dub nad Moravou,Blatec
+2541,783 83,Troubelice,Troubelice
+2542,783 85,Šumvald u Uničova,Šumvald
+2543,783 86,Dlouhá Loučka,Dlouhá Loučka
+2544,783 91,Uničov 1,Uničov
+2545,783 96,Újezd u Uničova,Újezd
+2546,783 97,Paseka u Šternberka,Paseka
+2547,784 01,Litovel,Litovel
+2548,785 01,Šternberk 1,Babice
+2549,787 01,Šumperk 1,Bratrušov
+2550,788 01,Oskava,Oskava
+2551,788 03,Nový Malín,Nový Malín
+2552,788 04,Hrabišín,Hrabišín
+2553,788 05,Libina,Libina
+2554,788 11,Loučná nad Desnou,Loučná nad Desnou
+2555,788 13,Vikýřovice,Rapotín
+2556,788 14,Rapotín,Petrov nad Desnou
+2557,788 15,Velké Losiny,Velké Losiny
+2558,788 16,Petrov nad Desnou,Sobotín
+2559,788 20,Dolní Studénky,Dolní Studénky
+2560,788 21,Sudkov,Kolšov
+2561,788 23,Jindřichov u Šumperka,Jindřichov
+2562,788 25,Výdejní místo Branná,Branná
+2563,788 32,Staré Město pod Sněžníkem,Staré Město
+2564,788 33,Hanušovice,Hanušovice
+2565,789 01,Zábřeh,Dlouhomilov
+2566,789 61,Bludov,Bludov
+2567,789 62,Olšany,Bohutín
+2568,789 63,Ruda nad Moravou,Ruda nad Moravou
+2569,789 64,Bohdíkov,Bohdíkov
+2570,789 69,Postřelmov,Postřelmov
+2571,789 71,Leština u Zábřeha,Leština
+2572,789 72,Dubicko,Bohuslavice
+2573,789 73,Úsov,Úsov
+2574,789 74,Rohle,Rohle
+2575,789 75,Brníčko u Zábřeha,Brníčko
+2576,789 82,Moravičany,Moravičany
+2577,789 83,Loštice,Loštice
+2578,789 85,Mohelnice,Mohelnice
+2579,789 91,Štíty,Štíty
+2580,790 01,Jeseník 1,Bělá pod Pradědem
+2581,790 51,Supíkovice,Supíkovice
+2582,790 52,Velké Kunětice,Velké Kunětice
+2583,790 53,Stará Červená Voda,Stará Červená Voda
+2584,790 54,Černá Voda,Černá Voda
+2585,790 55,Vidnava,Vidnava
+2586,790 57,Bernartice,Bernartice
+2587,790 58,Velká Kraš,Velká Kraš
+2588,790 61,Lipová-lázně 1,Lipová-lázně
+2589,790 63,Lipová-lázně 3,Lipová-lázně
+2590,790 64,Vápenná,Vápenná
+2591,790 65,Žulová,Vlčice
+2592,790 69,Bílá Voda u Javorníka,Bílá Voda
+2593,790 70,Javorník u Jeseníku,Javorník
+2594,790 81,Česká Ves,Česká Ves
+2595,790 82,Písečná u Jeseníku,Písečná
+2596,790 84,Mikulovice u Jeseníku 1,Hradec-Nová Ves
+2597,792 01,Bruntál 1,Bruntál
+2598,793 02,Lomnice u Rýmařova,Lomnice
+2599,793 03,Dětřichov nad Bystřicí,Dětřichov nad Bystřicí
+2600,793 05,Moravský Beroun,Moravský Beroun
+2601,793 12,Horní Benešov,Horní Benešov
+2602,793 15,Lichnov u Bruntálu,Lichnov
+2603,793 16,Zátor,Čaková
+2604,793 23,Karlovice,Karlovice
+2605,793 24,Karlova Studánka,Karlova Studánka
+2606,793 26,Vrbno pod Pradědem,Vrbno pod Pradědem
+2607,793 31,Světlá Hora,Andělská Hora
+2608,793 36,Malá Morávka,Malá Morávka
+2609,793 42,Janovice u Rýmařova,Rýmařov
+2610,793 44,Horní Město,Horní Město
+2611,793 51,Břidličná,Břidličná
+2612,793 56,Ryžoviště,Ryžoviště
+2613,793 68,Dvorce u Bruntálu,Bílčice
+2614,793 71,Holčovice,Holčovice
+2615,793 74,Heřmanovice,Heřmanovice
+2616,793 76,Zlaté Hory v Jeseníkách,Zlaté Hory
+2617,793 82,Třemešná u Krnova,Třemešná
+2618,793 83,Jindřichov u Krnova,Jindřichov
+2619,793 84,Janov u Krnova,Janov
+2620,793 91,Úvalno,Úvalno
+2621,793 93,Brantice,Brantice
+2622,793 95,Město Albrechtice,Město Albrechtice
+2623,793 97,Slezské Rudoltice,Slezské Rudoltice
+2624,793 99,Osoblaha,Vysoká
+2625,794 01,Krnov 1,Býkov-Láryšov
+2626,795 01,Rýmařov,Dolní Moravice
+2627,796 01,Prostějov 1,Prostějov
+2628,796 03,Prostějov 3,Prostějov
+2629,796 04,Prostějov 4,Prostějov
+2630,796 07,Držovice,Držovice
+2631,798 02,Mostkovice,Mostkovice
+2632,798 03,Plumlov,Plumlov
+2633,798 04,Určice,Alojzov
+2634,798 05,Myslejovice,Myslejovice
+2635,798 06,Otaslavice,Otaslavice
+2636,798 07,Brodek u Prostějova,Brodek u Prostějova
+2637,798 08,Vranovice-Kelčice,Vranovice-Kelčice
+2638,798 09,Vřesovice,Vřesovice
+2639,798 11,Prostějov 6,Prostějov
+2640,798 12,Kralice na Hané,Biskupice
+2641,798 13,Vrbátky,Vrbátky
+2642,798 14,Olšany u Prostějova,Olšany u Prostějova
+2643,798 16,Čelechovice na Hané,Čelechovice na Hané
+2644,798 17,Smržice,Smržice
+2645,798 21,Bedihošť,Bedihošť
+2646,798 23,Klenovice na Hané,Čelčice
+2647,798 24,Pivín,Pivín
+2648,798 25,Dobromilice,Dobromilice
+2649,798 26,Nezamyslice u Prostějova,Doloplazy
+2650,798 27,Němčice nad Hanou,Vrchoslavice
+2651,798 28,Mořice,Mořice
+2652,798 29,Tištín,Koválovice-Osíčany
+2653,798 30,Pavlovice u Kojetína,Pavlovice u Kojetína
+2654,798 41,Kostelec na Hané,Bílovice-Lutotín
+2655,798 42,Lešany u Prostějova,Lešany
+2656,798 43,Ptení,Ptení
+2657,798 44,Stražisko,Stražisko
+2658,798 45,Suchdol u Prostějova,Lipová
+2659,798 46,Brodek u Konice,Brodek u Konice
+2660,798 47,Horní Štěpánov,Horní Štěpánov
+2661,798 48,Protivanov,Buková
+2662,798 49,Malé Hradisko,Malé Hradisko
+2663,798 51,Přemyslovice,Přemyslovice
+2664,798 52,Konice,Březsko
+2665,798 53,Výdejní místo Jesenec,Dzbel
+2666,798 54,Kladky,Kladky
+2667,798 55,Hvozd u Prostějova,Ludmírov
+2668,798 56,Bohuslavice,Bohuslavice
+2669,798 57,Laškov,Laškov
+2670,798 58,Čechy pod Kosířem,Čechy pod Kosířem
+2671,798 61,Drahany,Rozstání
+2672,798 62,Rozstání,Rozstání
