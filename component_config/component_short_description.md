@@ -1,1 +1,1 @@
-Enter short description of the component here.
+Extracts Helios iNuvio ERP browses (data views) into Keboola Storage.
