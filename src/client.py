@@ -1,18 +1,33 @@
 import logging
 
 import requests
+import tenacity
 from keboola.component.exceptions import UserException
 
 RETRYABLE = (500, 502, 503, 504)
+DEFAULT_MAX_ATTEMPTS = 3
+
+
+class _RetryableHttpError(Exception):
+    """Internal signal that a request should be retried (transient 5xx or a one-time 401 re-auth)."""
+
+    def __init__(self, message: str):
+        super().__init__(message)
+        self.message = message
 
 
 class HeliosInuvioClient:
-    def __init__(self, base_url, username, password, database, timeout=180):
+    def __init__(
+        self, base_url, username, password, database, timeout=180, max_attempts=DEFAULT_MAX_ATTEMPTS, retry_wait=None
+    ):
         self.base_url = base_url.rstrip("/")
         self._username = username
         self._password = password
         self.database = database
         self._timeout = timeout
+        self._max_attempts = max_attempts
+        # Exponential backoff between retries by default; tests pass wait_none() to stay fast.
+        self._retry_wait = retry_wait if retry_wait is not None else tenacity.wait_exponential(multiplier=1, max=30)
         self._session = requests.Session()
         self._token = None
         self.licenses = {}
@@ -37,28 +52,34 @@ class HeliosInuvioClient:
 
     def _request(self, path, params=None):
         url = f"{self.base_url}{path}"
-        last = None
         reauthenticated = False
-        for attempt in range(3):
-            try:
-                resp = self._session.get(url, params=params, timeout=self._timeout)
-            except requests.RequestException as e:
-                last = str(e)
-                continue
-            if resp.status_code == 200:
-                return resp.json()
-            if resp.status_code == 401 and not reauthenticated:
-                # Token may have expired mid-run; re-authenticate once and retry.
-                reauthenticated = True
-                logging.info("Got 401 on %s; re-authenticating once and retrying.", path)
-                self.authenticate()
-                continue
-            if resp.status_code in RETRYABLE:
-                last = self._error_message(resp)
-                logging.warning("Retryable error on %s (attempt %d): %s", path, attempt + 1, last)
-                continue
-            raise UserException(f"Request to {path} failed ({resp.status_code}): {self._error_message(resp)}")
-        raise UserException(f"Request to {path} failed after retries: {last}")
+        retryer = tenacity.Retrying(
+            retry=tenacity.retry_if_exception_type((requests.RequestException, _RetryableHttpError)),
+            wait=self._retry_wait,
+            stop=tenacity.stop_after_attempt(self._max_attempts),
+            reraise=True,
+        )
+        try:
+            for attempt in retryer:
+                with attempt:
+                    resp = self._session.get(url, params=params, timeout=self._timeout)
+                    if resp.status_code == 200:
+                        return resp.json()
+                    if resp.status_code == 401 and not reauthenticated:
+                        # Token may have expired mid-run; re-authenticate once and retry.
+                        reauthenticated = True
+                        logging.info("Got 401 on %s; re-authenticating once and retrying.", path)
+                        self.authenticate()
+                        raise _RetryableHttpError("re-authenticated after 401")
+                    if resp.status_code in RETRYABLE:
+                        msg = self._error_message(resp)
+                        logging.warning("Retryable error on %s: %s", path, msg)
+                        raise _RetryableHttpError(msg)
+                    raise UserException(f"Request to {path} failed ({resp.status_code}): {self._error_message(resp)}")
+        except _RetryableHttpError as e:
+            raise UserException(f"Request to {path} failed after retries: {e.message}") from e
+        except requests.RequestException as e:
+            raise UserException(f"Cannot reach Helios server at {self.base_url}: {e}") from e
 
     def list_databases(self):
         return self._request("/api/v1/databases/list").get("databases", [])

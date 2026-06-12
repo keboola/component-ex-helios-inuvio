@@ -2,13 +2,15 @@ from unittest import mock
 
 import pytest
 import requests
+import tenacity
 from keboola.component.exceptions import UserException
 
 from client import HeliosInuvioClient
 
 
 def _client():
-    return HeliosInuvioClient("http://localhost:8080", "u", "p", "DB")
+    # wait_none() keeps the retry tests instant — no real backoff sleeps.
+    return HeliosInuvioClient("http://localhost:8080", "u", "p", "DB", retry_wait=tenacity.wait_none())
 
 
 def _resp(status, json_body=None, text=""):
