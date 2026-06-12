@@ -1,0 +1,50 @@
+{
+  "incremental": false,
+  "write_always": false,
+  "delimiter": ",",
+  "enclosure": "\"",
+  "manifest_type": "out",
+  "has_header": true,
+  "schema": [
+    {
+      "name": "TabZurnal_ID",
+      "data_type": {
+        "base": {
+          "type": "INTEGER"
+        }
+      }
+    },
+    {
+      "name": "TabZurnal_DatPorizeni",
+      "data_type": {
+        "base": {
+          "type": "TIMESTAMP"
+        }
+      }
+    },
+    {
+      "name": "TabZurnal_Autor",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    },
+    {
+      "name": "TabZurnal_Udalost",
+      "data_type": {
+        "base": {
+          "type": "INTEGER"
+        }
+      }
+    },
+    {
+      "name": "TabZurnal_Akce",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "incremental": false,
+  "write_always": false,
+  "delimiter": ",",
+  "enclosure": "\"",
+  "manifest_type": "out",
+  "has_header": true,
+  "schema": [
+    {
+      "name": "TabUserCfg_ID",
+      "data_type": {
+        "base": {
+          "type": "INTEGER"
+        }
+      }
+    },
+    {
+      "name": "TabUserCfg_LoginName",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    },
+    {
+      "name": "TabUserCfg_FullName",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    }
+  ]
+}

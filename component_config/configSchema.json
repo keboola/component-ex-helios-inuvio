@@ -1,19 +1,48 @@
 {
   "type": "object",
-  "title": "extractor configuration",
+  "title": "Helios iNuvio Connection",
   "required": [
-    "print_hello"
+    "base_url",
+    "username",
+    "#password",
+    "database"
   ],
   "properties": {
-    "print_hello": {
-      "type": "boolean",
-      "title": "Print Hello",
-      "propertyOrder": 1
+    "base_url": {
+      "type": "string",
+      "title": "Server URL",
+      "description": "Base URL of the Helios iNuvio application server, including the port (e.g. http://your-server:8080).",
+      "propertyOrder": 10
     },
-    "debug": {
-      "type": "boolean",
-      "title": "Debug",
-      "propertyOrder": 2
+    "username": {
+      "type": "string",
+      "title": "Username",
+      "propertyOrder": 20
+    },
+    "#password": {
+      "type": "string",
+      "title": "Password",
+      "format": "password",
+      "propertyOrder": 30
+    },
+    "test_connection": {
+      "type": "button",
+      "format": "test-connection",
+      "propertyOrder": 50
+    },
+    "database": {
+      "type": "string",
+      "title": "Database",
+      "description": "Helios iNuvio database system name. Click the button to load available databases.",
+      "format": "select",
+      "enum": [],
+      "propertyOrder": 60,
+      "options": {
+        "async": {
+          "label": "Load Databases",
+          "action": "list_databases"
+        }
+      }
     }
   }
 }

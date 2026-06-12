@@ -1,84 +1,78 @@
-Helios Inuvio
-=============
+# Helios iNuvio Extractor
 
-Description
+Keboola extractor for the **Helios iNuvio Server** (Asseco Solutions ERP) System API.
+Each configuration row extracts one Helios "browse" (přehled / data view) into a Keboola Storage table.
 
-**Table of Contents:**
+## Overview
 
-[TOC]
+The component authenticates via the Helios iNuvio REST API (JWT bearer token from `POST /api/token`),
+then fetches browse data page by page. The output is one CSV table per configuration row.
+In production the component reaches the Helios server over the customer's network or VPN.
 
-Functionality Notes
-===================
+## Configuration
 
-Prerequisites
-=============
+### Connection (config level)
 
-Ensure you have the necessary API token, register the application, etc.
+| Parameter | Type | Required | Description |
+|---|---|---|---|
+| `base_url` | string | yes | Base URL of the Helios iNuvio application server, e.g. `http://my-server:8080` |
+| `username` | string | yes | Account username |
+| `#password` | string | yes | Account password (stored encrypted) |
+| `database` | string | yes | System name of the Helios iNuvio database. Use "Load Databases" to populate the dropdown. |
 
-Features
-========
+A **Test Connection** button validates credentials and reports which APIs are licensed on the server.
 
-| **Feature**             | **Description**                               |
-|-------------------------|-----------------------------------------------|
-| Generic UI Form         | Dynamic UI form for easy configuration.       |
-| Row-Based Configuration | Allows structuring the configuration in rows. |
-| OAuth                   | OAuth authentication enabled.                 |
-| Incremental Loading     | Fetch data in new increments.                 |
-| Backfill Mode           | Supports seamless backfill setup.             |
-| Date Range Filter       | Specify the date range for data retrieval.    |
+### Row (per browse)
 
-Supported Endpoints
-===================
+| Parameter | Type | Required | Description |
+|---|---|---|---|
+| `browse` | string | yes | Browse to extract. Use "Load Browses" to populate the dropdown. The stored value is `Caption (ident)` (e.g. `Orders (BROWSE_ORDERS)`) but a plain ident like `BROWSE_ORDERS` is also accepted. |
+| `output_table_name` | string | no | Output table name in Keboola Storage. Defaults to `browse_<ident>` when left empty. |
+| `columns` | array | no | Columns to extract. Leave empty to extract **all** columns. Use "Load Columns" to populate the multi-select. |
+| `load_type` | enum | no | `full_load` (default) or `incremental_load`. |
+| `primary_key` | array | no | Required for `incremental_load` — columns that uniquely identify a row (enables upsert). |
+| `filter` | string | no | Optional server-side condition selecting which records to return, over column system names (`Table.Field`, e.g. `TabCisOrg.ID`). Empty returns all rows. For the syntax, see the [HELIOS iNuvio Server System API docs](https://public.helios.eu/inuvio/doc/cs/index.php?title=Kategorie:HELIOS_iNuvio_Server). |
 
-If you need additional endpoints, please submit your request to
-[ideas.keboola.com](https://ideas.keboola.com/).
+## Incremental Loading
 
-Configuration
-=============
+Incremental loading uses the Helios `rowVersion` cursor:
 
-Param 1
--------
-Details about parameter 1.
+1. After each run the maximum `rowVersion` returned by the API is saved in the row's `state.json`.
+2. The next incremental run passes that value as `rowVersion` query parameter so the server returns
+   only rows changed since the last run.
+3. The output table is written with `incremental=true` and the configured `primary_key`, so Keboola
+   Storage performs an upsert instead of a full overwrite.
 
-Param 2
--------
-Details about parameter 2.
+Full load (`full_load`) ignores any saved state and overwrites the output table each run.
 
-Output
-======
+## Output
 
-Provides a list of tables, foreign keys, and schema.
+- One CSV table per configuration row.
+- Column names are sanitized: any character outside `[A-Za-z0-9_]` is replaced with `_`
+  (e.g. `TabCisOrg.ID` → `TabCisOrg_ID`).
+- Nested JSON values (dict/list) are serialised as JSON strings in a single cell.
+- The table manifest sets `primary_key` and `incremental` flag as configured.
 
-Development
------------
+## Development / Tests
 
-To customize the local data folder path, replace the `CUSTOM_FOLDER` placeholder with your desired path in the `docker-compose.yml` file:
+Install dependencies with [uv](https://docs.astral.sh/uv/):
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    volumes:
-      - ./:/code
-      - ./CUSTOM_FOLDER:/data
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```bash
+uv sync
+```
 
-Clone this repository, initialize the workspace, and run the component using the following
-commands:
+Run the full test suite:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-git clone https://github.com/keboola/component-ex-helios-inuvio component-ex-helios-inuvio
-cd component-ex-helios-inuvio
-docker-compose build
-docker-compose run --rm dev
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```bash
+uv run pytest -v
+```
 
-Run the test suite and perform lint checks using this command:
+Lint and format checks:
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-docker-compose run --rm test
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```bash
+uv run ruff check src/ tests/
+uv run ruff format --check src/ tests/
+```
 
-Integration
-===========
-
-For details about deployment and integration with Keboola, refer to the
-[deployment section of the developer
-documentation](https://developers.keboola.com/extend/component/deployment/).
+Functional tests replay HTTP interactions from a committed VCR cassette
+(`tests/functional/*/source/data/cassettes/`) so they run fully offline without a live Helios server.

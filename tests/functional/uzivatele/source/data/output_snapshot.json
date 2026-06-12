@@ -1,0 +1,23 @@
+{
+  "files": {},
+  "hash_algorithm": "sha256",
+  "tables": {
+    "uzivatele.csv": {
+      "columns": [
+        "TabUserCfg_ID",
+        "TabUserCfg_LoginName",
+        "TabUserCfg_FullName"
+      ],
+      "hash": "sha256:4c1285f37f2fc8c93492d776e95ff6e83b85ade600fc7a2e46e6cb5c5beaf98f",
+      "row_count": 5,
+      "size_bytes": 176
+    },
+    "uzivatele.csv.manifest": {
+      "columns": null,
+      "hash": "sha256:6c25e8b3f751d3a3ab1fadf52ba5fb31be66c2e2dfea45151603788147210206",
+      "row_count": null,
+      "size_bytes": 557
+    }
+  },
+  "version": "1.0"
+}

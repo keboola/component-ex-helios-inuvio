@@ -1,0 +1,34 @@
+{
+  "incremental": false,
+  "write_always": false,
+  "delimiter": ",",
+  "enclosure": "\"",
+  "manifest_type": "out",
+  "has_header": true,
+  "schema": [
+    {
+      "name": "TabKmenZbozi_ID",
+      "data_type": {
+        "base": {
+          "type": "INTEGER"
+        }
+      }
+    },
+    {
+      "name": "TabKmenZbozi_CisloZbozi",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    },
+    {
+      "name": "TabKmenZbozi_Nazev1",
+      "data_type": {
+        "base": {
+          "type": "STRING"
+        }
+      }
+    }
+  ]
+}

@@ -1,1 +1,97 @@
-{}
+{
+  "type": "object",
+  "title": "Browse Configuration",
+  "required": [
+    "browse"
+  ],
+  "properties": {
+    "browse": {
+      "type": "string",
+      "title": "Browse",
+      "description": "Helios iNuvio browse (endpoint) to extract. Click the button to load available browses.",
+      "format": "select",
+      "enum": [],
+      "propertyOrder": 10,
+      "options": {
+        "async": {
+          "label": "Load Browses",
+          "action": "list_browses"
+        }
+      }
+    },
+    "output_table_name": {
+      "type": "string",
+      "title": "Output Table Name",
+      "description": "Name for the output table in Keboola Storage. Defaults to browse_<ident> when left empty.",
+      "propertyOrder": 20
+    },
+    "columns": {
+      "type": "array",
+      "title": "Columns",
+      "description": "Columns to extract. Leave empty to extract all columns.",
+      "format": "select",
+      "uniqueItems": true,
+      "propertyOrder": 30,
+      "items": {
+        "type": "string",
+        "enum": []
+      },
+      "options": {
+        "async": {
+          "label": "Load Columns",
+          "action": "list_columns"
+        }
+      }
+    },
+    "load_type": {
+      "type": "string",
+      "title": "Load Type",
+      "enum": [
+        "full_load",
+        "incremental_load"
+      ],
+      "default": "full_load",
+      "options": {
+        "enum_titles": [
+          "Full Load",
+          "Incremental Load"
+        ]
+      },
+      "propertyOrder": 40
+    },
+    "primary_key": {
+      "type": "array",
+      "title": "Primary Key",
+      "description": "Required for incremental load (enables upsert). Select columns that uniquely identify each row.",
+      "format": "select",
+      "uniqueItems": true,
+      "propertyOrder": 50,
+      "items": {
+        "type": "string",
+        "enum": []
+      },
+      "options": {
+        "async": {
+          "label": "Load Columns",
+          "action": "list_columns"
+        },
+        "dependencies": {
+          "load_type": "incremental_load"
+        }
+      }
+    },
+    "filter": {
+      "type": "string",
+      "title": "Filter (Advanced)",
+      "description": "Optional server-side condition selecting which records to return, over column system names <code>Table.Field</code> (e.g. <code>TabCisOrg.ID</code>). Empty returns all rows. For the syntax, see the <a href='https://public.helios.eu/inuvio/doc/cs/index.php?title=Kategorie:HELIOS_iNuvio_Server' target='_blank'>HELIOS iNuvio Server System API docs</a>.",
+      "propertyOrder": 60
+    },
+    "debug": {
+      "type": "boolean",
+      "title": "Debug Mode",
+      "description": "Enable verbose debug logging.",
+      "default": false,
+      "propertyOrder": 70
+    }
+  }
+}

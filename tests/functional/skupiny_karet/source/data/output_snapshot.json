@@ -1,0 +1,23 @@
+{
+  "files": {},
+  "hash_algorithm": "sha256",
+  "tables": {
+    "skupiny_karet.csv": {
+      "columns": [
+        "TabSkupinyZbozi_ID",
+        "TabSkupinyZbozi_SkupZbo",
+        "TabSkupinyZbozi_Nazev"
+      ],
+      "hash": "sha256:3657128a416a684d3d21873c74cd38e89673e882b470f4a18cee3c55fe2d94b5",
+      "row_count": 6,
+      "size_bytes": 147
+    },
+    "skupiny_karet.csv.manifest": {
+      "columns": null,
+      "hash": "sha256:f56e0c3dbfc63fe19c98309efb1ff213931fe3bf7836744e4c5521f0ceb218fd",
+      "row_count": null,
+      "size_bytes": 567
+    }
+  },
+  "version": "1.0"
+}

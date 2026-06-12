@@ -1,0 +1,18 @@
+{
+  "parameters": {
+    "base_url": "http://localhost:8080",
+    "username": "test-api",
+    "#password": "####",
+    "database": "HEE_Helios_001",
+    "browse": "14",
+    "output_table_name": "uzivatele",
+    "columns": [
+      "TabUserCfg.ID",
+      "TabUserCfg.LoginName",
+      "TabUserCfg.FullName"
+    ],
+    "load_type": "full_load",
+    "primary_key": [],
+    "filter": ""
+  }
+}
