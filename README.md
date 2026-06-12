@@ -31,7 +31,7 @@ A **Test Connection** button validates credentials and reports which APIs are li
 | `columns` | array | no | Columns to extract. Leave empty to extract **all** columns. Use "Load Columns" to populate the multi-select. |
 | `load_type` | enum | no | `full_load` (default) or `incremental_load`. |
 | `primary_key` | array | no | Required for `incremental_load` — columns that uniquely identify a row (enables upsert). |
-| `filter` | string | no | Optional server-side Helios filter condition. |
+| `filter` | string | no | Optional server-side condition selecting which records to return, over column system names (`Table.Field`, e.g. `TabCisOrg.ID`). Empty returns all rows. For the syntax, see the [HELIOS iNuvio Server System API docs](https://public.helios.eu/inuvio/doc/cs/index.php?title=Kategorie:HELIOS_iNuvio_Server). |
 
 ## Incremental Loading
 

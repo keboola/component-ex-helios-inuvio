@@ -1,7 +1,12 @@
 {
   "type": "object",
   "title": "Helios iNuvio Connection",
-  "required": ["base_url", "username", "#password", "database"],
+  "required": [
+    "base_url",
+    "username",
+    "#password",
+    "database"
+  ],
   "properties": {
     "base_url": {
       "type": "string",
