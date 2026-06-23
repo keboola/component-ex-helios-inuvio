@@ -13,7 +13,7 @@ dependencies = [
 [dependency-groups]
 dev = [
     "keboola.datadirtest>=2.0.0",
-    "vcrpy>=6.0.1",
+    "vcrpy>=8.2.1",
     "pytest>=9.0.2",
     "ruff>=0.15.2",
     "freezegun>=1.5.1",
